@@ -5,11 +5,11 @@ title: About OISF
 footer: false
 ---
 
-About the Ohio Information Security Forum
+# About the Ohio Information Security Forum
 
 The Ohio Information Security Forum (OISF) is a group of professionals and enthusiasts with a shared information security, network and system administration, engineering, and related computing technology backgrounds.
 
-Peer-to-Peer Networking
+## Peer-to-Peer Networking
 
 • Sharing knowledge of security technologies
 • Sharing expertise and solutions to issues
@@ -24,7 +24,8 @@ We all have the common objective to better secure our digital world. In doing so
 • Defense techniques & strategies
 • Laws & regulations
 • Recent trends in security
-Monthly Meetings
+
+## Monthly Meetings
 
 Since 2006, we have been meeting regularly the second Thursday of each month. With the help of Sinclair Community College, the OISF has been able to regularly host meetings at The Learning Center at Miami Valley Research Park, 1900 Founders Drive in Kettering, Ohio (for details, see our Details page).
 
@@ -34,14 +35,14 @@ The OISF begins each meeting (currently 6:00pm) with a time to socialize with pe
 
 There is no cost or fee to belong to the forum nor are you required to be a regular attendee to belong. Everyone involved in administrating or engineering computer systems are welcome to join us.
 
-Our Values
+## Our Values
 
 • Encouraged open discussion
 • Encourage new ideas and methods
 • Active participation among peers
 • Vendor neutrality
 
-Code of Conduct
+## Code of Conduct
 
 • Professional and ethical manner is required at all times
 • Courteous and mutual respect to fellow participants
@@ -49,26 +50,30 @@ Code of Conduct
 • Maintain confidentiality of information which could be construed sensitive
 • Member information is held confidential (i.e., names, email addresses, etc.)
 • Information obtained through the OISF is not for use to exploit vulnerabilities or inappropriate manner
-Participation
+
+## Participation
 
 • Free; there is no cost or obligation
 • Participation and contribution are required; the OISF is only as good as you make it
 • Name and email address requested for correspondence
 • Open to anyone in information technology, students of computer science and/or engineering
 • No discrimination or restriction based on sex, race, religion, or ethnic/national origin
-Terms of Use
+
+## Terms of Use
 
 Confidentiality is implied unless otherwise stated. As discussions may involve confidential issues relating to a particular company, all participants are required to abide to a code of conduct mandating confidentiality. Participants are never to use proprietary or confidential information as discussed in meetings or on website to disparage a company(s) or person(s) reputation nor use it in a negative way against a said company.
 
 Details regarding participation are kept confidential and only used by the Board of Directors to communicate details relating to OISF meetings and special events. Therefore, contact information will not be shared with any vendor without express consent.
 
-Board of Directors
+## Board of Directors
 
 • Consists of (3) members
 • Meeting and event logistics
 
-Contact information
+## Contact information
 
 Contact us at: info@ohioinfosec.org
 
-LINKED IN GROUP HERE
+LinkedIn:
+<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<span class="IN-widget" style="line-height: 1; vertical-align: baseline; display: inline-block;"><span style="padding: 0px !important; margin: 0px !important; text-indent: 0px !important; display: inline-block !important; vertical-align: baseline !important; font-size: 1px !important;"><iframe name="easyXDM_IN_Lib_li_gen_1395824936499_0_provider" id="easyXDM_IN_Lib_li_gen_1395824936499_0_provider" src="https://platform.linkedin.com/js/xdrpc.html?v=0.0.2000-RC8.33027-1408#xdm_e=http%3A%2F%2Fwww.ohioinfosec.org&amp;xdm_c=li_gen_1395824936499_0&amp;xdm_p=1#target=li_gen_1395824936499_0&amp;width=600&amp;height=400&amp;mode=wrapper" frameborder="0" style="width: 123px; height: 20px; display: inline-block;"></iframe></span></span><script type="IN/FollowCompany+init" data-id="2641194" data-counter="right"></script>

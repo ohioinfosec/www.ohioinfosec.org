@@ -5,7 +5,10 @@
         {% include navigation.html %}
       </header>
       <div id="main" class="container">
-        <div id="content">
+        <div class="col-md-4">
+          {% include sponsor_bar.html%}
+        </div>
+        <div class="col-md-8" id="content">
           {{ content | expand_urls: root_url }}
         </div>
       </div>

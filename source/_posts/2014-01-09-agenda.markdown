@@ -2,6 +2,7 @@
 title: Meeting Agenda - January 9th, 2014
 date: 2014-01-09 12:00PM
 category: Agenda
+layout: page
 ---
 
 6:00pm:
