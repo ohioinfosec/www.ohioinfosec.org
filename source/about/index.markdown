@@ -3,6 +3,7 @@ layout: page
 navbar: About
 title: About OISF
 footer: false
+sidebar: false
 ---
 
 # About the Ohio Information Security Forum

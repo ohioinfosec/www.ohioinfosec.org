@@ -1,10 +1,11 @@
 ---
 layout: default
 navbar: Blog
+sidebar: false
 ---
 
 <div class="row">
-  <div class="page-content {% unless site.default_asides == empty and site.blog_index_asides == empty %}col-md-9{% else %}col-md-12{% endunless %}">
+  <div class="page-content col-md-12">
     <div class="blog-index">
       {% assign index = true %}
       {% for post in paginator.posts %}
@@ -29,14 +30,4 @@ navbar: Blog
       {% endif %}
     </ul>
   </div>
-
-  {% unless site.default_asides == empty and site.blog_index_asides == empty %}
-    <aside class="sidebar col-md-3">
-      {% if site.blog_index_asides.size %}
-        {% include_array blog_index_asides %}
-      {% else %}
-        {% include_array default_asides %}
-      {% endif %}
-    </aside>
-  {% endunless %}
 </div>

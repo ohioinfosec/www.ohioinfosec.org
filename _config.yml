@@ -6,7 +6,7 @@ url: http://localhost
 title: Ohio InfoSec Forum
 subtitle: Networking, sharing, collaborating, learning... helping secure our digital world.
 author: OISF
-simple_search: https://duckduckgo.com/
+simple_search: false
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
