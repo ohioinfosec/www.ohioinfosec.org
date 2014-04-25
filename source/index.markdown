@@ -3,6 +3,8 @@ layout: default
 footer: false
 ---
 
+# Who We Are
+
 The Ohio Information Security Forum is a group of enthusiasts and professionals involved in information security, networking, system administration, engineering, and other computing environments that come together to help secure our digital world. We do this through the following:
 
 
@@ -26,7 +28,7 @@ W 50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYD
 ">
 </form>       </div>
 
-# Recent Posts:
+# Recent Posts
 
 {% for post in site.posts %}
 <strong><a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></strong>
