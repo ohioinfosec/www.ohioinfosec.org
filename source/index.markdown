@@ -25,3 +25,9 @@ z AJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChML
 W 50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbQIBADAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMDcwMTE3MjM0NzE5WjAjBgkqhkiG9w0BCQQxFgQUBfFStIhPZQV5OoTkK8RjtxaO7gswDQYJKoZIhvcNAQEBBQAEgYBwI6XF23Urtbw9gD4xPzGoWbUdfB8QZplpzDY9hYd0xTpZxpJwOhuuHVc0t3nhVmRVXuqnyWq9z2cPGbGGnF01Xf7mUXKxLkp+PDqs5KLtNm7kRZhYmYaRgyB7ImKHY3Rzlj8mwwcFSFjHRl0xSqN2+bXNpJW7fFoSbhk0iARY7Q==-----END PKCS7-----
 ">
 </form>       </div>
+
+# Recent Posts:
+
+{% for post in site.posts %}
+<strong><a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></strong>
+{% endfor %}
