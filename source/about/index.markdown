@@ -12,19 +12,19 @@ The Ohio Information Security Forum (OISF) is a group of professionals and enthu
 
 ## Peer-to-Peer Networking
 
-• Sharing knowledge of security technologies
-• Sharing expertise and solutions to issues
-• Collaborating with fellow information security peers
-• Conducting training programs for security and non-security professionals
-• Sharing experiences with security products and solutions
+* Sharing knowledge of security technologies
+* Sharing expertise and solutions to issues
+* Collaborating with fellow information security peers
+* Conducting training programs for security and non-security professionals
+* Sharing experiences with security products and solutions
 
 We all have the common objective to better secure our digital world. In doing so, open discussions center on security issues which include:
 
-• Emerging threats and vulnerabilities
-• Hacking techniques and trends
-• Defense techniques & strategies
-• Laws & regulations
-• Recent trends in security
+* Emerging threats and vulnerabilities
+* Hacking techniques and trends
+* Defense techniques & strategies
+* Laws & regulations
+* Recent trends in security
 
 ## Monthly Meetings
 
@@ -38,27 +38,27 @@ There is no cost or fee to belong to the forum nor are you required to be a regu
 
 ## Our Values
 
-• Encouraged open discussion
-• Encourage new ideas and methods
-• Active participation among peers
-• Vendor neutrality
+* Encouraged open discussion
+* Encourage new ideas and methods
+* Active participation among peers
+* Vendor neutrality
 
 ## Code of Conduct
 
-• Professional and ethical manner is required at all times
-• Courteous and mutual respect to fellow participants
-• No misrepresentation of abilities to other participants or the community
-• Maintain confidentiality of information which could be construed sensitive
-• Member information is held confidential (i.e., names, email addresses, etc.)
-• Information obtained through the OISF is not for use to exploit vulnerabilities or inappropriate manner
+* Professional and ethical manner is required at all times
+* Courteous and mutual respect to fellow participants
+* No misrepresentation of abilities to other participants or the community
+* Maintain confidentiality of information which could be construed sensitive
+* Member information is held confidential (i.e., names, email addresses, etc.)
+* Information obtained through the OISF is not for use to exploit vulnerabilities or inappropriate manner
 
 ## Participation
 
-• Free; there is no cost or obligation
-• Participation and contribution are required; the OISF is only as good as you make it
-• Name and email address requested for correspondence
-• Open to anyone in information technology, students of computer science and/or engineering
-• No discrimination or restriction based on sex, race, religion, or ethnic/national origin
+* Free; there is no cost or obligation
+* Participation and contribution are required; the OISF is only as good as you make it
+* Name and email address requested for correspondence
+* Open to anyone in information technology, students of computer science and/or engineering
+* No discrimination or restriction based on sex, race, religion, or ethnic/national origin
 
 ## Terms of Use
 
@@ -68,8 +68,8 @@ Details regarding participation are kept confidential and only used by the Board
 
 ## Board of Directors
 
-• Consists of (3) members
-• Meeting and event logistics
+* Consists of (5) members
+* Meeting and event logistics
 
 ## Contact information
 
