@@ -1,0 +1,15 @@
+{% if post.author %}
+  {% assign author = post.author %}
+{% elsif page.author %}
+  {% assign author = page.author %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+{% if post.email %}
+  {% assign email = post.email %}
+{% elsif page.email %}
+  {% assign email = page.email %}
+{% else %}
+  {% assign email = site.email %}
+{% endif %}
+{% if author %}<span class="glyphicon glyphicon-user"></span> <span class="byline author vcard">Posted by <a href="mailto:{{ email }}"><span class="fn">{{ author }}</span></a></span>{% endif %}

@@ -4,6 +4,8 @@ title: "Heartbleed News"
 date: 2014-04-25 10:43:16 -0400
 comments: true
 categories: News
+author: Tom Webster
+email: samurailink3@gmail.com
 ---
 
 {% img left /images/heartbleed.png %}
