@@ -1,7 +1,7 @@
 ---
 layout: page
 navbar: Events
-title: Upcomming Events
+title: Upcoming Events
 footer: false
 sidebar: false
 ---
