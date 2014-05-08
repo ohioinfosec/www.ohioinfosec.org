@@ -76,5 +76,7 @@ Details regarding participation are kept confidential and only used by the Board
 Contact us at: info@ohioinfosec.org
 
 LinkedIn:
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<span class="IN-widget" style="line-height: 1; vertical-align: baseline; display: inline-block;"><span style="padding: 0px !important; margin: 0px !important; text-indent: 0px !important; display: inline-block !important; vertical-align: baseline !important; font-size: 1px !important;"><iframe name="easyXDM_IN_Lib_li_gen_1395824936499_0_provider" id="easyXDM_IN_Lib_li_gen_1395824936499_0_provider" src="https://platform.linkedin.com/js/xdrpc.html?v=0.0.2000-RC8.33027-1408#xdm_e=http%3A%2F%2Fwww.ohioinfosec.org&amp;xdm_c=li_gen_1395824936499_0&amp;xdm_p=1#target=li_gen_1395824936499_0&amp;width=600&amp;height=400&amp;mode=wrapper" frameborder="0" style="width: 123px; height: 20px; display: inline-block;"></iframe></span></span><script type="IN/FollowCompany+init" data-id="2641194" data-counter="right"></script>
+<div>
+  <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+  <script type="IN/CompanyProfile" data-id="2641194" data-format="inline"></script>
+</div>
