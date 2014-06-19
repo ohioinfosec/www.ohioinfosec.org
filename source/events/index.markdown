@@ -6,6 +6,19 @@ footer: false
 sidebar: false
 ---
 
+### **[Ohio InfoSec Forum Anniversary 2014](/2014/06/19/anniversary/)**
+
+#### July 12th, 2014
+
+**Location:**
+
+    Miami Valley Research Park - Sinclair Learning Center
+    1900 Founders Drive
+    Suite 100
+    Dayton, Ohio 45420
+
+**[More Information](/2014/06/19/anniversary/)**
+
 ### [Black Hat USA 2014](https://www.blackhat.com/us-14/)
 
 #### August 2nd - 7th, 2014

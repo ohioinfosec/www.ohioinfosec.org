@@ -3,6 +3,8 @@ layout: default
 footer: false
 ---
 
+<div class="alert alert-success"><h4>Check out the <a class="alert-link" href="/2014/06/19/anniversary/">Ohio InfoSec Forum Anniversary 2014!</a></h4></div>
+
 # Who We Are
 
 The Ohio Information Security Forum is a group of enthusiasts and professionals involved in information security, networking, system administration, engineering, and other computing environments that come together to help secure our digital world. We do this through the following:
