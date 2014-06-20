@@ -23,9 +23,11 @@ Dayton, Ohio 45420
 
 In order to attend this event, registration is required. This can be done in advance through the Paypal link below: 
 
-<button class="btn btn-lg btn-danger">
-**BUTTON WILL BE HERE SOON**
-</button>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="SQM6QYYVXHZ3G">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+</form>
 
 <div class="panel panel-warning">
   <div class="panel panel-heading"><h3 class="panel-title">Note:</h3></div>
