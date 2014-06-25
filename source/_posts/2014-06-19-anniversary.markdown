@@ -75,10 +75,6 @@ David Kennedy is the President / CEO of TrustedSec, LLC. David was a Chief Secur
 
 #### Bio
 
-By day, I'm a Principal Information Security Consultant with more years of technical and management experience than I care to admit. In that role, I'm a strong advocate of reasonable and appropriate security controls that support the goals of the business.
-
-By night, I'm a husband, father, writer, filmmaker, martial artist, musician, gamer, and social media junkie. Trying to work my way up to superhero. Not there yet.
-
-I present regularly at information security conferences on a variety of topics, based on hands-on experience in different information security domains. If there's such a thing as an InfoSec Renaissance Man, I'd argue that I just might be that guy.
+By day, I'm the CTO & Principal Security Consultant with Jacadis, a security solutions and services provider. By night, I'm a husband, father, writer, filmmaker, martial artist, musician, gamer, and social media junkie. My approach to infosec has two key tenets: don't be afraid to void warranties, and people shouldn't have to bypass security to get their work done.
 
 ### And more will be listed soon!
