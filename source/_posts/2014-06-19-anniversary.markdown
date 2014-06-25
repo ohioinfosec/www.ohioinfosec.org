@@ -61,4 +61,24 @@ Adrian Crenshaw has worked in the IT industry for the last seventeen years. He r
 
 Gamification can make learning more fun, and some people are inspired and motivated by competition. This talk will be on integrating hobbyist electronics with lock picking games. We will show rough schematics, release code, and invite people to play the games at the con.
 
+### Dave Kennedy
+
+{% img left /images/2014-anniversary/dave_kennedy.png %}
+
+#### Bio
+
+David Kennedy is the President / CEO of TrustedSec, LLC. David was a Chief Security Officer (CSO) for an international fortune 1000 company located in over 77 countries with over 18,000 employees. David developed a global security program with a large dedicated team. David is considered a thought leader in the security field and has presented at many conferences worldwide. David has had guest appearances on FoxNews, BBC, and other high-profile media outlets. David is the founder of DerbyCon, a large-scale security conference in Louisville Kentucky. David also co-authored Metasploit: The Penetration Testers Guide book (with Devon Kearns, Jim O’Gorman, and Mati Aharoni) which was number one on Amazon.com in security for over 6 months. David was also one of the founding members of the “Penetration Testing Execution Standard (PTES)“. PTES is the industry leading standard and guidelines around how penetration tests should be performed and methodologies.
+
+### Jerod Brennen
+
+{% img left /images/2014-anniversary/jerod_brennen.jpg %}
+
+#### Bio
+
+By day, I'm a Principal Information Security Consultant with more years of technical and management experience than I care to admit. In that role, I'm a strong advocate of reasonable and appropriate security controls that support the goals of the business.
+
+By night, I'm a husband, father, writer, filmmaker, martial artist, musician, gamer, and social media junkie. Trying to work my way up to superhero. Not there yet.
+
+I present regularly at information security conferences on a variety of topics, based on hands-on experience in different information security domains. If there's such a thing as an InfoSec Renaissance Man, I'd argue that I just might be that guy.
+
 ### And more will be listed soon!
