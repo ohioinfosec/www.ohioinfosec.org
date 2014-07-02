@@ -57,6 +57,18 @@ Adrian Crenshaw has worked in the IT industry for the last seventeen years. He r
 
 Gamification can make learning more fun, and some people are inspired and motivated by competition. This talk will be on integrating hobbyist electronics with lock picking games. We will show rough schematics, release code, and invite people to play the games at the con.
 
+### Deral Heiland “Percent_X” - Praeda to PraedaSploit: The embedded device data Harvesting tool for the masses
+
+{% img left /images/2014-anniversary/deral_heiland.jpg %}
+
+#### Bio
+
+Deral Heiland CISSP, GWAPT, serves as a Senior Security Consultant for Rapid7 where he is responsible for security assessments, and consulting for corporations and government agencies. Deral is also founder of Ohio Information Security Forum a not for profit organization that focuses on information security training and education. Deral is also the creator of the open source tool “Praeda” an data harvesting tool used to extract critical information from embedded devices.  Deral has also presented at numerous national and international security conferences including BlackHat, ShmooCon, Defcon, Derbycon, Hacker Halted, Securitybyte India and Hackcon Norway. Deral has been interviewed by and quoted by several media outlets and publications including Bloomberg UTV, MIT Technical Review, MSNBC, Threatpost and SC Magazine.
+
+#### Abstract
+
+In this presentation I will discuss several of the most effective Multifunction printer attack vectors and how they can be leveraged by attackers to compromise critical systems. I will also be discussing the automation of these attack vectors. Including the the current open source automated data harvesting tool Praeda. We will also discuss the current project to migrate all exploit and data discovery modules it into Metasploit, and the planed future development of Praedasploit, for the automation of system fingerprinting and integration into Metasploit.
+
 ### Justin Sowder
 
 {% img left /images/2014-anniversary/justin_sowder.jpg %}
@@ -76,5 +88,3 @@ It’s not all about cyber security. Taking a look at several physical security 
 #### Bio
 
 By day, I'm the CTO & Principal Security Consultant with Jacadis, a security solutions and services provider. By night, I'm a husband, father, writer, filmmaker, martial artist, musician, gamer, and social media junkie. My approach to infosec has two key tenets: don't be afraid to void warranties, and people shouldn't have to bypass security to get their work done.
-
-### And more will be listed soon!
