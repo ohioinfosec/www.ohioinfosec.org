@@ -12,7 +12,7 @@ email: samurailink3@gmail.com
 
 July 12th 8:00AM - 5:00PM EST
 
-Miami Valley Research Park - Sinclair Learning Center
+Miami Valley Research Park
 1900 Founders Drive
 Suite 100
 Dayton, Ohio 45420
