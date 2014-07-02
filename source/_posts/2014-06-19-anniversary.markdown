@@ -3,7 +3,7 @@ layout: post
 title: "Ohio InfoSec Anniversary 2014"
 date: 2014-06-19 20:04:42 -0400
 comments: false
-categories: News, Events
+categories: News, Events, Agenda
 author: Tom Webster
 email: samurailink3@gmail.com
 ---
@@ -19,9 +19,9 @@ Dayton, Ohio 45420
 
 [Directions](/directions)
 
-## Registration and Payment
+## Registration and Payment ($10)
 
-In order to attend this event, registration is required. This can be done in advance through the Paypal link below: 
+In order to attend this event, registration is required and is only $10. This can be done in advance through the Paypal link below: 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
