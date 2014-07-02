@@ -37,17 +37,13 @@ In order to attend this event, registration is required and is only $10. This ca
 
 ## Speakers
 
-### Justin Sowder
+### Dave Kennedy
 
-{% img left /images/2014-anniversary/justin_sowder.jpg %}
+{% img left /images/2014-anniversary/dave_kennedy.png %}
 
 #### Bio
 
-Justin has been working in the network security industry for the past 11 years at several major companies in the Dayton/Cincinnati area. He currently works as an SE at Check Point Software Technologies Inc covering the Dayton and Columbus area, overlaying the Central US for virtualization technologies and datacenter design. This role gives him exposure to multiple industries and the challenges associated with each, and a method to bring solutions across those boundaries. When Justin isn’t working and trying to turn his basement into a datacenter, he enjoys bee keeping and spending time with his family.
-
-#### Abstract
-
-It’s not all about cyber security. Taking a look at several physical security breach scenarios that have already been through responsible disclosure in the consumer and medical industry and what lessons we can learn from them.
+David Kennedy is the President / CEO of TrustedSec, LLC. David was a Chief Security Officer (CSO) for an international fortune 1000 company located in over 77 countries with over 18,000 employees. David developed a global security program with a large dedicated team. David is considered a thought leader in the security field and has presented at many conferences worldwide. David has had guest appearances on FoxNews, BBC, and other high-profile media outlets. David is the founder of DerbyCon, a large-scale security conference in Louisville Kentucky. David also co-authored Metasploit: The Penetration Testers Guide book (with Devon Kearns, Jim O’Gorman, and Mati Aharoni) which was number one on Amazon.com in security for over 6 months. David was also one of the founding members of the “Penetration Testing Execution Standard (PTES)“. PTES is the industry leading standard and guidelines around how penetration tests should be performed and methodologies.
 
 ### Adrian Crenshaw - Lockade: Electronic Games for Locksport
 
@@ -61,13 +57,17 @@ Adrian Crenshaw has worked in the IT industry for the last seventeen years. He r
 
 Gamification can make learning more fun, and some people are inspired and motivated by competition. This talk will be on integrating hobbyist electronics with lock picking games. We will show rough schematics, release code, and invite people to play the games at the con.
 
-### Dave Kennedy
+### Justin Sowder
 
-{% img left /images/2014-anniversary/dave_kennedy.png %}
+{% img left /images/2014-anniversary/justin_sowder.jpg %}
 
 #### Bio
 
-David Kennedy is the President / CEO of TrustedSec, LLC. David was a Chief Security Officer (CSO) for an international fortune 1000 company located in over 77 countries with over 18,000 employees. David developed a global security program with a large dedicated team. David is considered a thought leader in the security field and has presented at many conferences worldwide. David has had guest appearances on FoxNews, BBC, and other high-profile media outlets. David is the founder of DerbyCon, a large-scale security conference in Louisville Kentucky. David also co-authored Metasploit: The Penetration Testers Guide book (with Devon Kearns, Jim O’Gorman, and Mati Aharoni) which was number one on Amazon.com in security for over 6 months. David was also one of the founding members of the “Penetration Testing Execution Standard (PTES)“. PTES is the industry leading standard and guidelines around how penetration tests should be performed and methodologies.
+Justin has been working in the network security industry for the past 11 years at several major companies in the Dayton/Cincinnati area. He currently works as an SE at Check Point Software Technologies Inc covering the Dayton and Columbus area, overlaying the Central US for virtualization technologies and datacenter design. This role gives him exposure to multiple industries and the challenges associated with each, and a method to bring solutions across those boundaries. When Justin isn’t working and trying to turn his basement into a datacenter, he enjoys bee keeping and spending time with his family.
+
+#### Abstract
+
+It’s not all about cyber security. Taking a look at several physical security breach scenarios that have already been through responsible disclosure in the consumer and medical industry and what lessons we can learn from them.
 
 ### Jerod Brennen
 

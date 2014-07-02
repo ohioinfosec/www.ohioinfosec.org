@@ -3,7 +3,7 @@ layout: default
 footer: false
 ---
 
-<div class="alert alert-success"><h4>Check out the <a class="alert-link" href="/2014/06/19/anniversary/">Ohio InfoSec Forum Anniversary 2014!</a></h4></div>
+<div class="alert alert-success"><h1>Check out the <a class="alert-link" href="/2014/06/19/anniversary/">Ohio InfoSec Forum Anniversary 2014!</a></h1></div>
 
 <div class="panel panel-primary">
   <div class="panel-heading">
