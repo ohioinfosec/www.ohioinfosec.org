@@ -87,4 +87,16 @@ It’s not all about cyber security. Taking a look at several physical security 
 
 #### Bio
 
-By day, I'm the CTO & Principal Security Consultant with Jacadis, a security solutions and services provider. By night, I'm a husband, father, writer, filmmaker, martial artist, musician, gamer, and social media junkie. My approach to infosec has two key tenets: don't be afraid to void warranties, and people shouldn't have to bypass security to get their work done.
+By day, Jerod (@slandail) is CTO & Principal Security Consultant with Jacadis, an award-winning security solutions and services provider. By night, he’s a husband, father, writer, filmmaker, martial artist, musician, gamer, and social media junkie.
+
+Jerod has over a decade of IT, infosec, and compliance experience. He spent years as an Information Security Specialist with American Electric Power, one of the largest electric utilities in the U.S., before moving to Abercrombie & Fitch, and multibillion dollar international luxury retailer. At A&F, Jerod built out and managed the information security program. His team was tasked with security operations, PCI and SOX compliance, and identity and access management.
+
+At Jacadis, Jerod is responsible for performing security assessments, penetration tests, and security architecture reviews, as well as evaluating security technologies on behalf of Jacadis clients. He applies his hands-on experience in support, management, and budgeting roles to help Jacadis clients identify and implement reasonable and appropriate security controls to meet their security and compliance obligations.
+
+Jerod has presents frequently for local and regional information security professional organizations, as well as larger information security conferences. He also teaches information security courses on behalf of MIS Training Institute, both domestically and internationally.
+
+His approach to infosec has two key tenets: you shouldn’t be afraid to void warranties, and you shouldn't need to bypass security to get your work done. http://about.me/slandail
+
+#### Abstract
+
+You may have heard Jerod speak on how to defend your mobile apps from attackers. In that presentation, he covered the fundamentals of secure mobile app development, identifying resources you should bake into your mobile app development process to reduce the likelihood of compromise. In this follow-up presentation, he continues that conversation with live demos against iOS and Android apps, in addition to covering vetting requirements for third party application developers and for apps that you plan to install on corporate mobile devices.
