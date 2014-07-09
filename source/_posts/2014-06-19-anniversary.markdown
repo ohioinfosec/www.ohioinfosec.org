@@ -81,7 +81,7 @@ Justin has been working in the network security industry for the past 11 years a
 
 It’s not all about cyber security. Taking a look at several physical security breach scenarios that have already been through responsible disclosure in the consumer and medical industry and what lessons we can learn from them.
 
-### Jerod Brennen
+### Jerod Brennen - For the Love of God, DEFEND YOUR MOBILE APPS! Part 2
 
 {% img left /images/2014-anniversary/jerod_brennen.jpg %}
 
