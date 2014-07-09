@@ -37,13 +37,17 @@ In order to attend this event, registration is required and is only $10. This ca
 
 ## Speakers
 
-### Dave Kennedy
+### Dave Kennedy - Looking Ahead - Changing Security Now.
 
 {% img left /images/2014-anniversary/dave_kennedy.png %}
 
 #### Bio
 
 David Kennedy is the President / CEO of TrustedSec, LLC. David was a Chief Security Officer (CSO) for an international fortune 1000 company located in over 77 countries with over 18,000 employees. David developed a global security program with a large dedicated team. David is considered a thought leader in the security field and has presented at many conferences worldwide. David has had guest appearances on FoxNews, BBC, and other high-profile media outlets. David is the founder of DerbyCon, a large-scale security conference in Louisville Kentucky. David also co-authored Metasploit: The Penetration Testers Guide book (with Devon Kearns, Jim O’Gorman, and Mati Aharoni) which was number one on Amazon.com in security for over 6 months. David was also one of the founding members of the “Penetration Testing Execution Standard (PTES)“. PTES is the industry leading standard and guidelines around how penetration tests should be performed and methodologies.
+
+#### Abstract
+
+We always hear about the failures of the security industry and it seems that each talk we go to just plunges us further down into how bad we’re doing with INFOSEC. This talk is a little bit different, it goes into the successes we’ve had and how we need to keep moving forward to protect our corporations and intellectual property. There are also a number of things that we need to change in order to progress and continue to move forward. This talk goes into the successful building blocks of an information security program and things that you can use right now to improve and better what your currently doing. With any of my talks, I always keep it fun and interactive, we’ll be showing some of the advanced attacks going on today, and quick wins and simple things to block a number of them without investing in the latest whiz bang piece of technology.
 
 ### Adrian Crenshaw - Lockade: Electronic Games for Locksport
 
@@ -69,7 +73,7 @@ Deral Heiland CISSP, GWAPT, serves as a Senior Security Consultant for Rapid7 wh
 
 In this presentation I will discuss several of the most effective Multifunction printer attack vectors and how they can be leveraged by attackers to compromise critical systems. I will also be discussing the automation of these attack vectors. Including the the current open source automated data harvesting tool Praeda. We will also discuss the current project to migrate all exploit and data discovery modules it into Metasploit, and the planed future development of Praedasploit, for the automation of system fingerprinting and integration into Metasploit.
 
-### Justin Sowder
+### Justin Sowder - It’s not all about cyber security
 
 {% img left /images/2014-anniversary/justin_sowder.jpg %}
 
