@@ -104,3 +104,23 @@ His approach to infosec has two key tenets: you shouldn’t be afraid to void wa
 #### Abstract
 
 You may have heard Jerod speak on how to defend your mobile apps from attackers. In that presentation, he covered the fundamentals of secure mobile app development, identifying resources you should bake into your mobile app development process to reduce the likelihood of compromise. In this follow-up presentation, he continues that conversation with live demos against iOS and Android apps, in addition to covering vetting requirements for third party application developers and for apps that you plan to install on corporate mobile devices.
+
+## Agenda
+
+8:00 - 8:30: Check-in and Breakfast
+
+8:30 - 9:00: Introduction
+
+9:00 - 10:10: Jerod Brennen
+
+10:20 - 11:30: Dave Kennedy
+
+11:40 - 12:50: Adrian Crenshaw
+
+13:00 - 13:30: Lunch
+
+13:30 - 14:40: Justin Sowder
+
+14:50 - 16:00: Deral Heiland
+
+16:00 - 16:30: Cake and prizes
