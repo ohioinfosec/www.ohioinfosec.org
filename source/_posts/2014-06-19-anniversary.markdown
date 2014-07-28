@@ -82,14 +82,14 @@ In order to attend this event, registration is required and is only $10. This ca
   <tr>
     <td>13:30</td>
     <td>14:40</td>
-    <td>Justin Sowder</td>
-    <td>It’s not all about cyber security</td>
+    <td>Deral Heiland</td>
+    <td>Praeda to PraedaSploit: The embedded device data Harvesting tool for the masses</td>
   </tr>
   <tr>
     <td>14:50</td>
     <td>16:00</td>
-    <td>Deral Heiland</td>
-    <td>Praeda to PraedaSploit: The embedded device data Harvesting tool for the masses</td>
+    <td>Tom Webster</td>
+    <td>Modern Times: Passwords</td>
   </tr>
   <tr>
     <td>16:00</td>
@@ -137,17 +137,17 @@ Deral Heiland CISSP, GWAPT, serves as a Senior Security Consultant for Rapid7 wh
 
 In this presentation I will discuss several of the most effective Multifunction printer attack vectors and how they can be leveraged by attackers to compromise critical systems. I will also be discussing the automation of these attack vectors. Including the the current open source automated data harvesting tool Praeda. We will also discuss the current project to migrate all exploit and data discovery modules it into Metasploit, and the planed future development of Praedasploit, for the automation of system fingerprinting and integration into Metasploit.
 
-### Justin Sowder - It’s not all about cyber security
+### Tom Webster - Modern Times: Passwords
 
-{% img left /images/2014-anniversary/justin_sowder.jpg %}
+{% img left /images/2014-anniversary/tom_webster.jpg %}
 
 #### Bio
 
-Justin has been working in the network security industry for the past 11 years at several major companies in the Dayton/Cincinnati area. He currently works as an SE at Check Point Software Technologies Inc covering the Dayton and Columbus area, overlaying the Central US for virtualization technologies and datacenter design. This role gives him exposure to multiple industries and the challenges associated with each, and a method to bring solutions across those boundaries. When Justin isn’t working and trying to turn his basement into a datacenter, he enjoys bee keeping and spending time with his family.
+Tom Webster is an IT grunt, VPN admin, Security Lead, Programmer, and general tech guy at BWI Group. He’s constantly breaking, fixing, and researching things as well as ranting over at [SamuraiLink3.com](http://www.samurailink3.com/) and his [Google Plus profile](https://plus.google.com/+TomWebster/about). Tom has a secret love of cooking while wearing Google Glass and can make a damn good pot roast.
 
 #### Abstract
 
-It’s not all about cyber security. Taking a look at several physical security breach scenarios that have already been through responsible disclosure in the consumer and medical industry and what lessons we can learn from them.
+The password has been around for a good portion of known human history. We’ve become experts and making bad passwords and forcing others to do the same. What happens when we start taking a modern look at passwords and approach the topic pragmatically?
 
 ### Jerod Brennen - For the Love of God, DEFEND YOUR MOBILE APPS! Part 2
 
