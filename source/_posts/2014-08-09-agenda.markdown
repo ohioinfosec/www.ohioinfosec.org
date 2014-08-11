@@ -19,7 +19,11 @@ _By: [Amber Gott](https://twitter.com/ambergott) of [LastPass](https://lastpass.
 
 #### **Bio:**
 
-Marketing Manager [@LastPass](https://twitter.com/LastPass). Bookworm [@justonemorepage](https://twitter.com/justonemorepage). I heart Spain, coffee, & road trips.
+Amber is the Marketing Manager at LastPass, the world's leading password manager. LastPass simplifies online life by remembering your passwords for you, filling your usernames and passwords as you login to your sites, and generating secure passwords for each of your online accounts.
+
+Amber oversees LastPass' online communities, coordinates content development for the blog and website, and prepares and executes a range of marketing strategies.
+
+Learn more about LastPass [here](https://lastpass.com/).
 
 ### **Presentation:** 10 legal issues we see in cloud service agreements
 _By: [Dino Tsibouris](http://www.tsibouris.com/attorneys_tsibouris.html)_
