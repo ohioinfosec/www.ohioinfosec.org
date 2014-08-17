@@ -25,7 +25,7 @@ Amber oversees LastPass' online communities, coordinates content development for
 
 Learn more about LastPass [here](https://lastpass.com/).
 
-### **Presentation:** 10 legal issues we see in cloud service agreements
+### **Presentation:** [10 legal issues we see in cloud service agreements](/files/201404-Legal_issues_in_Cloud_Computing_Contracts-Dino_Tsibouris.zip)
 _By: [Dino Tsibouris](http://www.tsibouris.com/attorneys_tsibouris.html)_
 
 #### **Abstract:**
