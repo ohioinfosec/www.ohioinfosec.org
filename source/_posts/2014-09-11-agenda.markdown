@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Meeting Agenda - September 11th, 2014"
+date: 2014-09-11 12:00:00 -0400
+comments: true
+categories: Agenda
+---
+
+**6:00pm:**
+
+Food and drinks served
+
+### Introduction
+
+A brief overview of the Ohio Information Security Forum.
+
+### **Presentation:** User Awareness Training
+_By: [Dan Wilkins](https://twitter.com/cdjadex)_
+
+### **Presentation:** 2 Factor General Discussion
+_By: [Tom Webster](http://samurailink3.com)_
