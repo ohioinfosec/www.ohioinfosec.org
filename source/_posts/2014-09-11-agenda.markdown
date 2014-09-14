@@ -14,8 +14,8 @@ Food and drinks served
 
 A brief overview of the Ohio Information Security Forum.
 
-### **Presentation:** User Awareness Training
+### **Presentation:** [Bro, do you even security: The American Idol Effect](/files/201409-Bro_do_you_even_security-Dan_Wilkins.zip)
 _By: [Dan Wilkins](https://twitter.com/cdjadex)_
 
-### **Presentation:** 2 Factor General Discussion
+### **Presentation:** [2 Factor General Discussion](/files/201409-2_Factor_General_Discussion-Tom_Webster.zip)
 _By: [Tom Webster](http://samurailink3.com)_
