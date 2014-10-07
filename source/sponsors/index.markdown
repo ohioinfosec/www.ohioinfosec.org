@@ -6,16 +6,6 @@ footer: false
 sidebar: false
 ---
 
-## Platinum Sponsors
-
-{% img center /images/spon-checkpoint2.jpg %}
-
-Check Point Software Technologies Ltd., the worldwide leader in securing the Internet, provides customers with uncompromised protection against all types of threats, reduces security complexity and lowers total cost of ownership. Check Point first pioneered the industry with FireWall-1 and its patented stateful inspection technology. Today, Check Point continues to develop new innovations based on the Software Blade Architecture, providing customers with flexible and simple solutions that can be fully customized to meet the exact security needs of any organization. Check Point is the only vendor to go beyond technology and define security as a business process. Check Point 3D Security uniquely combines policy, people and enforcement for greater protection of information assets and helps organizations implement a blueprint for security that aligns with business needs. Customers include tens of thousands of organizations of all sizes, including all Fortune and Global 100 companies. Check Point's award-winning ZoneAlarm solutions protect millions of consumers from hackers, spyware and identity theft.
-
-[Website: http://www.checkpoint.com/](http://www.checkpoint.com/)
-
-[Contact Check Point](http://www.checkpoint.com/corporate/contact_list.html)
-
 ### Gold Sponsors
 
 {% img center /images/spon-wellbury.jpg %}
@@ -28,6 +18,23 @@ Phone: (866) 569-9799
 
 #### Silver Sponsors
 
-{% img center /images/spon-meshco2.png %}
+{% img center /images/spon-ccsw.png %}
 
-[Website: http://www.meshco.com/](http://www.meshco.com/)
+ Caesar Creek Software provides software, security, and network contracting and consulting services to both government agencies and public and private industries nationwide. We specialize in custom software development and have experts in the following technologies:
+
+* Windows Application Development
+* Microsoft Foundation Class (MFC) Library
+* Computer, Application, and Network Security
+* Reverse Engineering
+* Windows and Linux Device Drivers
+* LAN/WAN Design & Implementation
+* Embedded Software Development
+* Full Software Development Lifecycle
+* Object-Oriented Design
+* Software Internationalization
+* Centralized Database Systems
+* Systems Design 
+
+Caesar Creek Software provides both on-site and off-site software development and consulting services. We offer our services on either a time and materials or fixed-price basis. We pride ourselves in offering high-quality software development services. Our goal is to make our customers look good.
+
+[Website: http://caesarcreeksoftware.com/](http://caesarcreeksoftware.com/)
