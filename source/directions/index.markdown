@@ -13,9 +13,9 @@ sidebar: false
     Suite 100
     Dayton, Ohio 45420
 
-## Maps
+    The Garden West Room
 
-### [Sinclair Map (Including Directions)](/images/MVRP-Directions.jpg)
+## Maps
 
 ### Area Map
 
@@ -23,9 +23,7 @@ sidebar: false
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12275.386046244717!2d-84.108865!3d39.72063199999965!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884084ce4ecc8bd7%3A0xb31483e6b5b66995!2sMiami+Valley+Research+Park!5e0!3m2!1sen!2s!4v1398360461884" width="600" height="450" frameborder="0" style="border:0"></iframe>
 </div>
 
-### Building Map
-
-{% img /images/mvrplayout.jpg %}
+When you arive, look for the Garden West Room.
 
 ## Directions
 

@@ -3,6 +3,19 @@ layout: default
 footer: false
 ---
 
+<div class="alert alert-success"><h1>We're in a new meeting room!!</h1></div>
+
+<div class="panel panel-primary">
+ <div class="panel-heading">
+ <h1>We're meeting in a different room! Same building!</h1>
+ </div>
+ <div class="panel-body">
+ <h3>
+    Same exact building that you're used to, just a new room. We'll have signs up directing you to the new place, so fear not! The room we'll be in is called the "Garden West Room".
+ </h3>
+ </div>
+</div>
+
 # Who We Are
 
 The Ohio Information Security Forum is a group of enthusiasts and professionals involved in information security, networking, system administration, engineering, and other computing environments that come together to help secure our digital world. We do this through the following:
