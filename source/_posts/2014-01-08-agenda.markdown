@@ -16,7 +16,7 @@ Food and drinks served
 
 A brief overview of the Ohio Information Security Forum.
 
-### **Presentation:** Simple Network Management Pwnd
+### **Presentation:** [Simple Network Management Pwnd](/files/201501-Simple_Network_Management_Pwnd-Matthew_Kienow.zip)
 _By: Matthew Kienow_
 
 #### **Abstract:**
@@ -42,7 +42,7 @@ Matthew Kienow is a software engineer and independent security researcher. He
 has designed, built, and successfully deployed secure software solutions,
 however, often enjoys breaking them instead.
 
-### **Presentation:** An Introduction to Bitcoin & Cryptocurrency
+### **Presentation:** [An Introduction to Bitcoin & Cryptocurrency](/files/20150108-Intro_to_Bitcoin&Cryptocurrency-Josh_Muller.pptx)
 _By: Josh Muller_
 
 #### **Abstract:**
