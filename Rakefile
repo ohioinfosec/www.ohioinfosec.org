@@ -4,7 +4,7 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "root@ohioinfosec.org"
+ssh_user       = "badmin@ohioinfosec.org"
 ssh_port       = "22"
 document_root  = "/var/www/www.ohioinfosec.org/"
 rsync_delete   = true
