@@ -16,6 +16,14 @@ Wellbury Information Services LLC is a firm that focuses on creating reliable an
 
 Phone: (866) 569-9799
 
+{% img center /images/spon-nexum.png %}
+
+Nexum takes a comprehensive approach to security, from the detection and prevention of network threats, intrusions and disruptions, to ensuring we equip you with the information, tools and resources you need to block, deflect and effectively manage IT risk. We ensure our customers maintain the highest levels of security, network access, and system availability necessary for their unique business objectives.
+
+[Website: http://nexuminc.com/](http://nexuminc.com/)
+
+Phone: (312) 726-6900
+
 #### Silver Sponsors
 
 {% img center /images/spon-ccsw.png %}
@@ -33,7 +41,7 @@ Phone: (866) 569-9799
 * Object-Oriented Design
 * Software Internationalization
 * Centralized Database Systems
-* Systems Design 
+* Systems Design
 
 Caesar Creek Software provides both on-site and off-site software development and consulting services. We offer our services on either a time and materials or fixed-price basis. We pride ourselves in offering high-quality software development services. Our goal is to make our customers look good.
 
