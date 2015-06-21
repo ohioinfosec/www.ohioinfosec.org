@@ -170,24 +170,36 @@ legislation.
 
 Please read [Dino's full bio](http://www.tsibouris.com/attorneys_tsibouris_full.html).
 
-### Ben Ten
+### Ben Ten - Gray Hat PowerShell
 
 {% img left /images/2015-anniversary/ben_ten.jpg %}
 
 #### Bio
 
-In yer tubez cloggin yer internetz. –
+Ben Ten is a Senior Security Consultant. He has over 14 years of
+experience doing Application & Web Development; Security Implementation,
+Consulting, & Training; Federal Regulation and Compliance oversight in
+relation to Information Technology (HIPAA, HITECH, PCI); and managing a
+team of developers and IT professionals. He is the creator of the PoshSec
+Framework. He also runs the BSides Joint Task Force CTF, is an active
+board member of Secure Chicago, LLC, and works with the PoshSec
+development team.
 
-Christian, VP & Security Officer (Blue Team), Developer (Builder), PoshSec Developer, Gamer, SciFi, Geek
+#### Abstract
 
-Twitterz: @Ben0xA
-IRC: Ben0xA on freenode in #burbsec,#poshsec,#derbycon channels
-LinkedIn: Ben0xA
-Emailz: web at ben0xa dot com
-
-PoshSec Framework
-
-Download from Github: https://github.com/PoshSec/PoshSecFramework
+We have seen PowerShell gain attention and adoption in the last few
+years. People are beginning to realize that there is more to PowerShell
+than another scripting language. With the adoption comes more tools and
+resources for both the offensive and defensive sides of security. This
+talk is designed to give you a first hand look of using PowerShell in
+both an offensive attacking scenario as well as a defensive scenario. In
+this talk I will be focusing on the tools, methods, and techniques that
+are being used from both offensive and defensive mindsets. I will
+highlight existing tools that can be leveraged as well as teach you how
+to write some custom tools yourself. We will dive into the more complex
+ideas with PowerShell and the .NET Framework. At the end of this talk,
+you will learn that there are many ways to leverage PowerShell to your
+advantage; regardless of what color hat you wear.
 
 ### Adrian Crenshaw
 
