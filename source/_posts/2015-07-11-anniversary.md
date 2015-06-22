@@ -170,6 +170,16 @@ legislation.
 
 Please read [Dino's full bio](http://www.tsibouris.com/attorneys_tsibouris_full.html).
 
+#### Abstract
+
+Dino Tsibouris and Mehmet Munur will be presenting about the
+lawyer’s perspective on data security breaches and recent
+developments and trends in data security breaches. They will
+also discuss issues relating to managing and responding to
+data security issues in the cloud. They will also talk about
+addressing security and data breach related issues with
+vendors in contracts.
+
 ### Ben Ten - Gray Hat PowerShell
 
 {% img left /images/2015-anniversary/ben_ten.jpg %}
