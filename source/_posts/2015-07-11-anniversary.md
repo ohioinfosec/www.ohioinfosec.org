@@ -52,6 +52,65 @@ Get listed as an official sponsor of the Ohio InfoSec Forum on our [Sponsors Pag
   <div class="panel-body">Cash will not be accepted at the time of the event. You will need to register and pay via the Paypal button(s) above.</div>
 </div>
 
+<h2 id="agenda">Agenda</h2>
+
+<table class="table table-striped table-bordered table-hover table-condensed">
+  <thead>
+    <tr>
+      <th>Start</th>
+      <th>End</th>
+      <th>Event</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8 AM</td>
+      <td>8:45 AM</td>
+      <td>Registrations and Breakfast</td>
+    </tr>
+    <tr>
+      <td>8:45 AM</td>
+      <td>9 AM</td>
+      <td>Introduction</td>
+    </tr>
+    <tr>
+      <td>9 AM</td>
+      <td>10 AM</td>
+      <td>Phil Grimes</td>
+    </tr>
+    <tr>
+      <td>10:15 AM</td>
+      <td>11:15 AM</td>
+      <td>Dave Kennedy</td>
+    </tr>
+    <tr>
+      <td>11:30 AM</td>
+      <td>12:30 PM</td>
+      <td>Adrian Crenshaw</td>
+    </tr>
+    <tr>
+      <td>12:30 PM</td>
+      <td>1:30 PM</td>
+      <td>Lunch</td>
+    </tr>
+    <tr>
+      <td>1:30 PM</td>
+      <td>2:30 PM</td>
+      <td>Ben Ten</td>
+    </tr>
+    <tr>
+      <td>2:45 PM</td>
+      <td>3:45 PM</td>
+      <td>Dino Tsibouris</td>
+    </tr>
+    <tr>
+      <td>3:45 PM</td>
+      <td>4 PM</td>
+      <td>Cake</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Speakers
 
 ### Dave Kennedy - INFOSEC Flash Forward - Changing how we think
