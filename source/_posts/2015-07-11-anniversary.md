@@ -76,7 +76,7 @@ Get listed as an official sponsor of the Ohio InfoSec Forum on our [Sponsors Pag
     <tr>
       <td>9 AM</td>
       <td>10 AM</td>
-      <td>Phil Grimes</td>
+      <td>Ben Ten</td>
     </tr>
     <tr>
       <td>10:15 AM</td>
@@ -96,7 +96,7 @@ Get listed as an official sponsor of the Ohio InfoSec Forum on our [Sponsors Pag
     <tr>
       <td>1:30 PM</td>
       <td>2:30 PM</td>
-      <td>Ben Ten</td>
+      <td>Phil Grimes</td>
     </tr>
     <tr>
       <td>2:45 PM</td>
