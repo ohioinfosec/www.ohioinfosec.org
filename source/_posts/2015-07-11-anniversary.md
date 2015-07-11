@@ -293,3 +293,22 @@ This talking will cover the history of passwords and
 password storage. We will talk about how storage of
 passwords has evolved over the years, screw ups in password
 schemes, hash types, weaknesses, etc.
+
+## Goodies
+
+Thanks for attending this year! As a gift to our generous
+speakers and a giveaway to a random attendee, we're giving
+out Raspberry Pi 2 units in a custom-made OISF Case! You can
+find download and print your own using [this part on
+Thingiverse](http://www.thingiverse.com/thing:920875), if you're into viewing the [source
+repository, including logo SVG, head over to
+GitHub](https://github.com/ohioinfosec/OhioInfoPie). This
+part and all associated files are licensed under the
+[Creative Commons Attribution-ShareAlike 3.0 Unported (CC
+BY-SA 3.0)
+License](https://creativecommons.org/licenses/by-sa/3.0/).
+Feel free to share, remix, download, print, and modify it as
+you wish. Thanks to [walter](www.thingiverse.com/walter) for
+the original part!
+
+{% img left /images/2015-anniversary/pi_case.jpg %}
