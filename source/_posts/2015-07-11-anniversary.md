@@ -270,7 +270,7 @@ ideas with PowerShell and the .NET Framework. At the end of this talk,
 you will learn that there are many ways to leverage PowerShell to your
 advantage; regardless of what color hat you wear.
 
-### Adrian Crenshaw
+### Adrian Crenshaw - The History of Passwords and Password Storage
 
 {% img left /images/2015-anniversary/adrian_crenshaw.jpg %}
 
@@ -286,3 +286,10 @@ for the tests himself. He holds a Master of Science in
 Security Informatics, works for TrustedSec as a Senior
 Security Consultant and is one of the co-founders of
 Derbycon.
+
+#### Abstract
+
+This talking will cover the history of passwords and
+password storage. We will talk about how storage of
+passwords has evolved over the years, screw ups in password
+schemes, hash types, weaknesses, etc.
