@@ -3,7 +3,7 @@ layout: post
 title: "Ohio InfoSec Anniversary 2015"
 date: 2015-07-11 12:00:00 -0400
 comments: false
-categories: News, Events
+categories: News, Events, Agenda
 author: Tom Webster
 email: tom.webster@ohioinfosec.org
 ---

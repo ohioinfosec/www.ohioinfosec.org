@@ -3,19 +3,6 @@ layout: default
 footer: false
 ---
 
-<div class="alert alert-success"><h1>Check out the <a class="alert-link" href="/2015/07/11/anniversary/">Ohio InfoSec Forum Anniversary 2015!</a></h1></div>
-
-<div class="panel panel-primary">
-  <div class="panel-heading">
-    <h1>Don't miss this!</h1>
-  </div>
-  <div class="panel-body">
-    <h3>
-      The Ohio InfoSec Forum Anniversary meeting is here! All day on July 11th, come get your fill of food, security topics, and good fun. Registration, speaker list, and directions <a href="/2015/07/11/anniversary/">can be found here</a>.
-    </h3>
-  </div>
-</div>
-
 # Who We Are
 
 The Ohio Information Security Forum is a group of enthusiasts and professionals involved in information security, networking, system administration, engineering, and other computing environments that come together to help secure our digital world. We do this through the following:
