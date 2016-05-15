@@ -1,0 +1,67 @@
+---
+layout: post
+title: "Meeting Agenda - January 8th, 2015"
+date: 2015-01-08 12:00:00 -0400
+comments: true
+categories: Agenda
+---
+
+**This meeting will be in the Garden West room! Same building!**
+
+**6:00pm:**
+
+Food and drinks served
+
+### Introduction
+
+A brief overview of the Ohio Information Security Forum.
+
+### **Presentation:** [Simple Network Management Pwnd](/files/201501-Simple_Network_Management_Pwnd-Matthew_Kienow.zip)
+_By: Matthew Kienow_
+
+#### **Abstract:**
+
+Solo presentation of Deral Heiland and Matthew Kienow's DerbyCon 4.0 talk
+"Simple Network Management Pwnd" - As a large number of embedded devices are
+deployed throughout home and industry worldwide. We find little or no effort
+being made to properly secure SNMP services, as a result potentially millions of
+these devices expose access to their SNMP services over the Internet. This
+creates a silent killer. Users are unaware as attackers can easily leverage
+these services to extract critical data and potentially alter security features
+leading to further compromise. During this presentation we will deliver an in
+depth examination of the SNMP protocol and associated device MIB security
+issues. Covering such topics as SNMP protocols, MIBs structures, Information
+extraction methodologies. Leveraging live demonstrations we will also show
+several examples of critical data leakage, and walk the audience through methods
+for extracting data and performing comparative analysis for the purpose of
+discovering critical information stored in SNMP private MIBs.
+
+#### **Bio:**
+
+Matthew Kienow is a software engineer and independent security researcher. He
+has designed, built, and successfully deployed secure software solutions,
+however, often enjoys breaking them instead.
+
+### **Presentation:** [An Introduction to Bitcoin & Cryptocurrency](/files/20150108-Intro_to_Bitcoin&Cryptocurrency-Josh_Muller.pptx)
+_By: Josh Muller_
+
+#### **Abstract:**
+
+What are bitcoins and why are they valuable? How does the Bitcoin network and
+payment system work? How can one secure his/her bitcoin wallet? How does one buy
+or sell bitcoins? What are the some of the implications of Bitcoin for society?
+These and other questions will be addressed in the presentation, “An
+Introduction to Bitcoin & Cryptocurrency.”
+
+#### **Bio:**
+
+A Dayton-area network systems consultant by day and a cryptocurrency enthusiast
+by night, Josh has been fascinated with computers & technology from a young age.
+As a child, he built & rebuilt computers, and built a website for a friend’s
+company at the age of 12. While taking some programming classes in high school,
+his interests shifted towards system administration & network security, and he
+began working in the field of IT shortly after graduation. In college, his
+interests expanded towards finance & economics, and after discovering Bitcoin
+and other innovative digital currencies he has been a supporter of them ever
+since. After obtaining a bachelor’s degree in Information Systems, he began his
+career in IT which he continues to this day.

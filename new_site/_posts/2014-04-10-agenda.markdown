@@ -1,0 +1,20 @@
+---
+layout: post
+title: Meeting Agenda - April 10th, 2014
+date: 2014-04-10 12:00:00 -0400
+comments: true
+categories: Agenda
+---
+
+**6:00pm:**
+
+Food and drinks served
+
+### Introduction
+
+A brief overview of the Ohio Information Security Forum.
+
+### **Presentation:** Recon-ng: I am watching you (not in the creepy way)
+_By: Dan Wilkins_
+
+While one might think that everything has been locked down, there is one thing that is forgotten - information. With Recon-ng, one can look at public sources of information to better fit an attack to an organization.
