@@ -4,6 +4,7 @@ author: OISF
 email: info@ohioinfosec.org
 description: Networking, sharing, collaborating, learning... helping secure our digital world.
 url: http://www.ohioinfosec.org
+date_format: "ordinal"
 timezone: America/Detroit
 markdown: redcarpet
 highlighter: rouge
