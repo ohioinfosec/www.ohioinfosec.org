@@ -1,0 +1,14 @@
+---
+layout: default
+navbar: Blog
+---
+
+{% if page.navbar == "Blog" %}
+<h1>Bloggy</h1>
+{% endif %}
+<div class="row">
+  <h2>{{ page.title }}</h2>
+</div>
+<div class="row">
+  {{ page.content }}
+</div>
