@@ -10,7 +10,7 @@ markdown: redcarpet
 highlighter: rouge
 category_dir: /blog/categories
 permalink: /blog/:year/:month/:day/:title/
-paginate: 10
+paginate: 5
 paginate_path: "blog/page/:num/"
 exclude: [/Gemfile, /Gemfile.lock, /Rakefile, /README.md, LICENSE, .gitignore]
 gems: ["jekyll-paginate"]

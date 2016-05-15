@@ -10,17 +10,18 @@ title: Post Archive
     <i class="text-muted fa fa-calendar"></i>
     {{ post.date | pretty }}
   </span>
+  {{ post.content }}
 </div>
 {% endfor %}
 <div class="row">
   <ul class="pager">
-    {% if paginator.next_page %}
-    <li class="previous"><a href="{{paginator.next_page}}">&larr;&nbsp;Older</a></li>
+    {% if paginator.next_page_path %}
+    <li class="previous"><a href="{{paginator.next_page_path}}">&larr;&nbsp;Older</a></li>
     {% else %}
     <li class="previous disabled"><a href="#">&larr;&nbsp;Older</a></li>
     {% endif %}
-    {% if paginator.previous_page %}
-    <li class="next"><a href="{{paginator.previous_page}}">Newer&nbsp;&rarr;</a></li>
+    {% if paginator.previous_page_path %}
+    <li class="next"><a href="{{paginator.previous_page_path}}">Newer&nbsp;&rarr;</a></li>
     {% else %}
     <li class="next disabled"><a href="#">Newer&nbsp;&rarr;</a></li>
     {% endif %}
