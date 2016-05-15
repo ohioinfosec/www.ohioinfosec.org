@@ -1,0 +1,46 @@
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="{{ root_url }}/">{{ site.name }}</a>
+        </div>
+
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li {% if page.navbar == 'Agenda' %}class="active"{% endif %}>
+                    <a href="{{ root_url }}/agenda">Agenda</a>
+                </li>
+                <li {% if page.navbar == 'About' %}class="active"{% endif %}>
+                    <a href="{{ root_url }}/about">About</a>
+                </li>
+                <li {% if page.navbar == 'Blog' %}class="active"{% endif %}>
+                    <a href="{{ root_url }}/blog">Blog</a>
+                </li>
+                <li {% if page.navbar == 'Directions' %}class="active"{% endif %}>
+                    <a href="{{ root_url }}/directions">Directions</a>
+                </li>
+                <li {% if page.navbar == 'Events' %}class="active"{% endif %}>
+                    <a href="{{ root_url }}/events">Events</a>
+                </li>
+                <li {% if page.navbar == 'Presentations' %}class="active"{% endif %}>
+                    <a href="{{ root_url }}/presentations">Presentations</a>
+                </li>
+                <li {% if page.navbar == 'Sponsors' %}class="active"{% endif %}>
+                    <a href="{{ root_url }}/sponsors">Sponsors</a>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a class="subscribe-rss" href="/atom.xml" title="subscribe via RSS">
+                      <span class="visible-xs">RSS</span>
+                      <i class="fa fa-2x fa-rss hidden-xs"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
