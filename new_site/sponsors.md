@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 navbar: Sponsors
 title: Our Sponsors
 ---

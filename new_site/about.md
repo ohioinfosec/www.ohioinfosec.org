@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 navbar: About
 title: About OISF
 ---
