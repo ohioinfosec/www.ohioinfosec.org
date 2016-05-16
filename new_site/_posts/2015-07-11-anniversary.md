@@ -1,5 +1,6 @@
 ---
 layout: post
+navbar: Blog
 title: "Ohio InfoSec Anniversary 2015"
 date: 2015-07-11 12:00:00 -0400
 comments: false

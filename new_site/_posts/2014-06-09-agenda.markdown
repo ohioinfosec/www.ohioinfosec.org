@@ -1,5 +1,6 @@
 ---
 layout: post
+navbar: Blog
 title: "Meeting Agenda - June 12th, 2014"
 date: 2014-06-09 12:06:38 -0400
 comments: true
