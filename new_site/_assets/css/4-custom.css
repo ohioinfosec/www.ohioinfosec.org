@@ -38,3 +38,65 @@ kbd {
   padding:.1em .6em;
   text-shadow:0 1px 0 #fff;
 }
+
+.navbutton {
+  max-height: 100px;
+}
+
+.btn-navbutton {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+.btn-navbutton:focus,
+.btn-navbutton.focus {
+  color: #333;
+  background-color: #e6e6e6;
+  border-color: #8c8c8c;
+}
+.btn-navbutton:hover {
+  color: #333;
+  background-color: #e6e6e6;
+  border-color: #adadad;
+}
+.btn-navbutton:active,
+.btn-navbutton.active,
+.open > .dropdown-toggle.btn-navbutton {
+  color: #333;
+  background-color: #e6e6e6;
+  border-color: #adadad;
+}
+.btn-navbutton:active:hover,
+.btn-navbutton.active:hover,
+.open > .dropdown-toggle.btn-navbutton:hover,
+.btn-navbutton:active:focus,
+.btn-navbutton.active:focus,
+.open > .dropdown-toggle.btn-navbutton:focus,
+.btn-navbutton:active.focus,
+.btn-navbutton.active.focus,
+.open > .dropdown-toggle.btn-navbutton.focus {
+  color: #333;
+  background-color: #d4d4d4;
+  border-color: #8c8c8c;
+}
+.btn-navbutton:active,
+.btn-navbutton.active,
+.open > .dropdown-toggle.btn-navbutton {
+  background-image: none;
+}
+.btn-navbutton.disabled:hover,
+.btn-navbutton[disabled]:hover,
+fieldset[disabled] .btn-navbutton:hover,
+.btn-navbutton.disabled:focus,
+.btn-navbutton[disabled]:focus,
+fieldset[disabled] .btn-navbutton:focus,
+.btn-navbutton.disabled.focus,
+.btn-navbutton[disabled].focus,
+fieldset[disabled] .btn-navbutton.focus {
+  background-color: #fff;
+  border-color: #ccc;
+}
+.btn-navbutton .badge {
+  color: #fff;
+  background-color: #333;
+}
