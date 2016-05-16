@@ -4,13 +4,17 @@ navbar: Blog
 ---
 
 <div class="row">
-  <h1><b>{{ page.title }}</b></h1>
-  <span>
-    <i class="text-muted fa fa-calendar"></i>
-    {{ page.date | pretty }}
-  </span>
-  <hr>
+  <div class="col-md-12">
+    <h1><b>{{ page.title }}</b></h1>
+    <span>
+      <i class="text-muted fa fa-calendar"></i>
+      {{ page.date | pretty }}
+    </span>
+    <hr>
+  </div>
 </div>
 <div class="row">
-  {{ page.content }}
+  <div class="col-md-12">
+    {{ page.content }}
+  </div>
 </div>
