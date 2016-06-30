@@ -73,7 +73,7 @@ Dayton, Ohio 45420
     <tr>
       <td>11:30 AM</td>
       <td>12:30 PM</td>
-      <td>TBD</td>
+      <td>Jason Samide</td>
     </tr>
     <tr>
       <td>12:30 PM</td>
@@ -88,7 +88,7 @@ Dayton, Ohio 45420
     <tr>
       <td>2:45 PM</td>
       <td>3:45 PM</td>
-      <td>TBD</td>
+      <td>Joel Cardella</td>
     </tr>
     <tr>
       <td>3:45 PM</td>
@@ -168,4 +168,39 @@ international privacy issues.
 
 ### Tim Wright
 
-### More speakers to be announced!
+### Jason Samide
+
+{% img left /images/2016-anniversary/jason_samide.jpg %}
+
+#### Bio
+
+Mr. Samide has worked in Information Technology for the past 12 years focusing
+on Fortune 500 companies to include financial, manufacturing, healthcare,
+technology as well as State Government and the Department of Defense. For the
+past eight years specializing in information security initiatives, each job has
+brought its own perspective with each experience building upon the next.
+
+Jason has focused his career towards cyber security and managed security
+programs and continues to hone his skills through researching technologies and
+his involvement with various security groups around the region. Mr. Samide
+serves as Stealthcare’s Vice President of its Cyber Intelligence Division and
+provides IT and security services to Stealthcare’s broad corporate client base
+across the US, Canada, and abroad.
+
+While technology is a method of enforcing policies, Jason understands the
+business side of technology having earned his Master’s Degree in Business
+Administration. Jason is passionate and driven to provide secure solutions to
+some of the most challenging environments facing Stealthcare’s clients today. He
+is a Certified Information Systems Security Professional (CISSP) and has
+obtained multiple Microsoft and Cisco certifications.
+
+Mr. Samide graduated from Cleveland State University with a Bachelor’s Degree in
+Finance and Masters of Business Administration from Cleveland State University.
+
+#### Abstract
+
+2016 Predictions and How History repeats itself
+
+### Joel Cardella
+
+{% img left /images/2016-anniversary/joel_cardella.jpg %}
