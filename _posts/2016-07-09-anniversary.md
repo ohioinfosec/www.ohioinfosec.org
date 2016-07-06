@@ -204,3 +204,32 @@ Finance and Masters of Business Administration from Cleveland State University.
 ### Joel Cardella
 
 {% img left /images/2016-anniversary/joel_cardella.jpg %}
+
+#### Bio
+
+Joel Cardella has over 24 years of experience in information technology, having
+run a gamut from network operations, sales support, data center management,
+field operations and information security. He has worked in industries including
+telecommunications, healthcare and manufacturing. Prior to rapid7 he held the
+role of Regional Security Officer for North America for a multinational
+manufacturing company.
+
+As a former CISO, he helps C-suite executives better interact on information
+security topics. He also helps organizations build and run security programs,
+manage risk, and increase their security maturity posture. As a public speaker
+he has presented at security conferences across North America, Infragard, and US
+Army TACOM LCMC. He is an instructor at Eastern Michigan University teaching
+business-focused IT and network security, and holds a Masters Degree in
+Organizational Leadership. Joel is an ISACA Certified Information Security
+Manager (CISM).
+
+#### Abstract
+
+This presentation will discuss the product of nearly a year’s worth of
+opportunistic credential scanning data collected from Heisenberg, Rapid7’s
+public-facing network of low-interaction honeypots. Instead of focusing on the
+passwords that end users typically pick, with this data we can see what
+opportunistic scanners are using in order to test— and likely compromise—
+Internet connected point of sale (POS) systems, kiosks, and scamware-compromised
+desktop PCs which offer the Remote Desktop Protocol (RDP) service for remote
+management.
