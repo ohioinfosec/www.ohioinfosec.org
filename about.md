@@ -94,6 +94,8 @@ without express consent.
 
 * Consists of (5) members
 * Meeting and event logistics
+* Board members dedicate their time to running and managing the group
+* Board members are not paid a salary or monetarily compensated, it is strictly a volunteer effort.
 
 ## Contact information
 
