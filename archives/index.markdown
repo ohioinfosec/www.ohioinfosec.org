@@ -1,7 +1,7 @@
 ---
 layout: page
-navbar: Presentations
-title: Presentations
+navbar: Archives
+title: Presentation Archives
 footer: false
 sidebar: false
 ---
@@ -9,10 +9,11 @@ sidebar: false
 ## Miss a meeting? Forgot something in your notes?
 
 Here are presentations previously done by Ohio Information Security Forum
-participants, ordered by month and presentation name. This page contains the
-current presentations up to the most current ones available.
+participants, ordered by month and presentation name. This page contains
+archived presentations. For more current notes, see the Agendas and Meeting
+Notes in the [Blog](/blog/).
 
-## Current Presentations (2013 - 2014):
+## Archived Presentations (2013 - 2014):
 
 #### February 2014
 
@@ -42,8 +43,8 @@ current presentations up to the most current ones available.
 
 ## Past Presentations
 
-* [2011](/presentations/2011/)
-* [2012](/presentations/2012/)
+* [2011](/archives/2011/)
+* [2012](/archives/2012/)
 
 ## Disclaimer
 
