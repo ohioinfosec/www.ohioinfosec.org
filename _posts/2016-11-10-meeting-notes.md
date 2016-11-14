@@ -18,6 +18,7 @@ keep us running.
     * This won't cost you anything or make your purchases more expensive, this takes money from Amazon and gives it to us.
 * [Charles Monett's IP Camera Firmware Scripts](https://github.com/cm-code/firmware-scripts)
     * Scripts used in this month's presentation!
+* Download the presentation slides right here: [PDF](/files/Presentation-Nov2016.pdf) / [PPTX](/files/Presentation-Nov2016.pptx)
 * [Politico's Morning Cyber Security Briefing](http://www.politico.com/tipsheets/morning-cybersecurity)
     * A daily dose of infosec policy and news
 * [Mirai Malware](https://en.wikipedia.org/wiki/Mirai_(malware)) - Malware that has been terrorizing the internet via DDOS attacks
