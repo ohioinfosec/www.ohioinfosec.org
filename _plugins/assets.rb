@@ -46,13 +46,6 @@ module Jekyll
   CSS_FILENAME = "assets/css/stylesheet-" + CSS_HASH + ".css"
   File.rename("assets/css/stylesheet.css",CSS_FILENAME)
 
-  # Gzip the CSS file
-  Zlib::GzipWriter.open(CSS_FILENAME + ".gz") do |gz|
-    gz.mtime = File.mtime(CSS_FILENAME)
-    gz.orig_name = CSS_FILENAME
-    gz.write IO.binread(CSS_FILENAME)
-  end
-
   # Process JS into one file
   File.open("assets/js/javascript-uncompressed.js", "w") do |output_file|
     ASSET_FILES_JS.each do |input_file|
@@ -74,13 +67,6 @@ module Jekyll
   JS_FILENAME = "assets/js/javascript-" + JS_HASH + ".js"
   File.rename("assets/js/javascript.js",JS_FILENAME)
 
-  # Gzip the CSS file
-  Zlib::GzipWriter.open(JS_FILENAME + ".gz") do |gz|
-    gz.mtime = File.mtime(JS_FILENAME)
-    gz.orig_name = JS_FILENAME
-    gz.write IO.binread(JS_FILENAME)
-  end
-
   # Copy the fonts folder, as it is referenced directly by the CSS
 
   ASSET_FILES_FONTS.each do |font|
@@ -89,13 +75,6 @@ module Jekyll
   copied_fonts = ASSET_FILES_FONTS
   copied_fonts.each do |item|
     item.tr!("_","")
-  end
-  copied_fonts.each do |copied_font|
-    Zlib::GzipWriter.open(copied_font + ".gz") do |gz|
-      gz.mtime = File.mtime(copied_font)
-      gz.orig_name = copied_font
-      gz.write IO.binread(copied_font)
-    end
   end
 
   class RenderCSSTag < Liquid::Tag
