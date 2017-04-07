@@ -6,7 +6,7 @@ task :deploy do
   puts "## Building Site"
   system("jekyll build")
   puts "## Deploying website via Rsync"
-  system("rsync -avz --delete _site/ badmin@ohioinfosec.org:/var/www/www.ohioinfosec.org")
+  system("rsync -avz --delete _site/ oisf@www.ohioinfosec.org:~/www")
 end
 
 desc "Create a new post"
