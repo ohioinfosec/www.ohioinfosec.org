@@ -1,7 +1,7 @@
 ---
 layout: post
 navbar: Blog
-title: "Ohio InfoSec Anniversary 2016"
+title: "Ohio InfoSec Anniversary 2018"
 date: 2018-07-14 8:00:00 -0400
 comments: false
 categories: News, Events, Agenda
@@ -34,8 +34,6 @@ Dayton, Ohio 45420
 
 
 ## Tentative Schedule
-
-<h2 id="agenda">Agenda</h2>
 
 <table class="table table-striped table-bordered table-hover table-condensed">
   <thead>
