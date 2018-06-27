@@ -1,6 +1,6 @@
 ---
 layout: post
-navbar: Blog
+navbar: Blog, Events
 title: "Ohio InfoSec Anniversary 2018"
 date: 2018-07-14 8:00:00 -0400
 comments: false
