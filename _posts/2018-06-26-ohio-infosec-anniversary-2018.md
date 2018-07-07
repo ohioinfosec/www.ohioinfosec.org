@@ -44,7 +44,7 @@ Dayton, Ohio 45420
   </thead>
   <tbody>
     <tr>
-      <td>9 AM</td>
+      <td>9:00 AM</td>
       <td></td>
       <td>Checkin for Registered Attendees and Breakfast </td>
     </tr>
@@ -69,7 +69,12 @@ Dayton, Ohio 45420
       <td>Break for lunch - pizza provided on site by OISF</td>
     </tr>
     <tr>
-      <td>12:30 PM</td>
+      <td>1:00 PM</td>
+      <td>Matt Scheurer</td>
+      <td>Active Defense: Helping the Threat Actors Hack Themselves</td>
+    </tr>
+    <tr>
+      <td>2:00 PM</td>
       <td>Deral Heiland</td>
       <td>Hardware Hacking, Ginsu Chef Style</td>
     </tr>
