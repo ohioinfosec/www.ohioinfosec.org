@@ -34,29 +34,60 @@ Dayton, Ohio 45420
 
 ## Schedule  
 
-### 9 am:	“Continental Breakfast” / networking / registered attendees check in near front of building
-
-### 9:30 am:	Opening Introduction by Dr. John Carls
-
-### 9:45 am:	Presentation 1: Robert Stewart  
-Catching the Social Engineer
-
-### 10:45 am:	Presentation 2: Jerod Brennan  
-Hacking Identity, A Pen Tester’s guide to IAM
-
-### 11:45 am:	Break for lunch
-Pizza provided on site by OISF
-
-### 1 pm:	Presentation 3: Matt Scheurer: Active Defense: Helping the Threat Actors Hack Themselves
-
-### 2 pm:	Presentation 4: Deral Heiland  
-Hardware Hacking Ginsu Chef Style
-
-### 3 pm:	Break for Dessert
-
-### 3:30 pm: 	Presentation 5: Tim Wright  
-see website (www.ohioinfosec.org) closer to event day
-
-### 4:30 pm:	Closing remarks/ Thanks/ OISF requests 
-
+<table class="table table-striped table-bordered table-hover table-condensed">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Event</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9 AM</td>
+      <td></td>
+      <td>Checkin for Registered Attendees and Breakfast </td>
+    </tr>
+    <tr>
+      <td>9:30 AM</td>
+      <td>Dr. John Carls</td>
+      <td>Introduction</td>
+    </tr>
+    <tr>
+      <td>9:45 AM</td>
+      <td>Robert Stewart</td>
+      <td>Catching the Social Engineer</td>
+    </tr>
+    <tr>
+      <td>10:45 AM</td>
+      <td>Jerod Brennan</td>
+      <td>Hacking Identity, A Pen Tester’s guide to IAM</td>
+    </tr>
+    <tr>
+      <td>11:45 AM</td>
+      <td></td>
+      <td>Break for lunch - pizza provided on site by OISF</td>
+    </tr>
+    <tr>
+      <td>12:30 PM</td>
+      <td>Deral Heiland</td>
+      <td>Hardware Hacking, Ginsu Chef Style</td>
+    </tr>
+    <tr>
+      <td>3:00 PM</td>
+      <td></td>
+      <td>Break for Dessert</td>
+    </tr>
+    <tr>
+      <td>3:30 PM</td>
+      <td>Tim Wright</td>
+      <td>Presentation TBA</td>
+    </tr>
+    <tr>
+      <td>4:30</td>
+      <td></td>
+      <td>Closing Remarks, Thanks, OISF Requests</td>
+    </tr>
+  </tbody>
+</table>
 
