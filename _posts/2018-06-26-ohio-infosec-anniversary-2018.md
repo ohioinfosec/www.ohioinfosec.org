@@ -60,7 +60,7 @@ Dayton, Ohio 45420
     </tr>
     <tr>
       <td>10:45 AM</td>
-      <td>Jerod Brennan</td>
+      <td>Jerod Brennen</td>
       <td>Hacking Identity, A Pen Tester’s guide to IAM</td>
     </tr>
     <tr>
@@ -89,7 +89,7 @@ Dayton, Ohio 45420
       <td>Presentation TBA</td>
     </tr>
     <tr>
-      <td>4:30</td>
+      <td>4:30 PM</td>
       <td></td>
       <td>Closing Remarks, Thanks, OISF Requests</td>
     </tr>
