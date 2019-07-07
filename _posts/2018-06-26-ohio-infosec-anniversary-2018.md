@@ -11,13 +11,14 @@ email: info@ohioinfosec.org
 
 ## Time and Place
 
-July 14th 9:00AM - 5:00PM EST
+July 14th 9:00AM - 5:00PM EST  
 
-Miami Valley Research Park
-1900 Founders Drive
-Suite 100
-Dayton, Ohio 45420
-
+<p>
+Miami Valley Research Park,<br>  
+1900 Founders Drive<br>
+Suite 100,<br>
+Dayton, Ohio 45420<br>
+</p>
 [Directions](/directions)
 
 ## Registration  
@@ -85,4 +86,5 @@ Registration has closed.
     </tr>
   </tbody>
 </table>
+
 
