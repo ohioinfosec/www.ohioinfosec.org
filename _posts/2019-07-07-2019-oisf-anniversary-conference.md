@@ -8,9 +8,9 @@ categories: News, Events, Agenda
 author: OISF
 email: info@ohioinfosec.org
 ---
+####  Looking for the Q&A?  [Click here](#qanda)
 
-
-## Time and Place
+## Time and Place <a name="time"></a>
 
 July 13th 9:00AM - 5:00PM EST
 
@@ -21,7 +21,7 @@ Dayton, Ohio 45420
 
 [Directions](/directions)
 
-## Schedule  
+## Schedule  <a name="schedule"></a>
 
 <table class="table table-striped table-bordered table-hover table-condensed">
   <thead>
@@ -123,3 +123,32 @@ Micah K Brown is a member of the IT Security Engineering team at American Modern
 
 Barry Kimball has worked with computers the majority of his life. Having studied materials engineering and computer engineering has worked through how and what makes a chip work all the way to programming. Working in several fields of IT and wide range of industries. Currently run’s Cincinnati SMBA and member of several local security groups in the Cincinnati area.
 
+## Questions & Answers <a name="qanda"></a>
+
+####  Who is welcome to attend?
+
+All individuals interested in information security.  This includes high school students, college students, professionals, and anyone else interested in our topics.   
+
+####  What cost is there to attend?
+
+There is no minimum cost to attend, but there is a suggested donation of $20.  
+
+#### I'm interested.  How do I register?  
+
+Registration will be at the door, limited to 110 attendees.  
+
+#### I'll be there.  Any food/drink?  
+
+Breakfast:  Bagels (subject to change)
+Lunch:  Pizza 
+Dessert:  Cake (subject to change)
+Drinks (throughout the day):  Coffee, Soft Drinks (reg & diet), Water
+
+
+#### I'd like to know about CEUs/CPEs.  Could you tell me more?
+
+Attendees will earn 6 CEU/CPE's for this event.  
+
+#### I have another question about the conference.  Could you answer it?  
+
+Sure! Contact us at [info@ohioinfosec.org](mailto:info@ohioinfosec.org)
