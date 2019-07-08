@@ -139,10 +139,10 @@ Registration will be at the door, limited to 110 attendees.
 
 #### I'll be there.  Any food/drink?  
 
-Breakfast:  Bagels (subject to change)
-Lunch:  Pizza 
-Dessert:  Cake (subject to change)
-Drinks (throughout the day):  Coffee, Soft Drinks (reg & diet), Water
+Breakfast:  Bagels (subject to change)  
+Lunch:  Pizza  
+Dessert:  Cake (subject to change)  
+Drinks (throughout the day):  Coffee, Soft Drinks (reg & diet), Water  
 
 
 #### I'd like to know about CEUs/CPEs.  Could you tell me more?
