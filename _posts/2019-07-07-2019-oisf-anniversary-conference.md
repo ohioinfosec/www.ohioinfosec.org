@@ -147,7 +147,7 @@ Drinks (throughout the day):  Coffee, Soft Drinks (reg & diet), Water
 
 #### I'd like to know about CEUs/CPEs.  Could you tell me more?
 
-Attendees will earn 6 CEU/CPE's for this event.  
+Registered attendees requesting CEU/CPEs will earn 6 CEU/CPE's for this event.  
 
 #### I have another question about the conference.  Could you answer it?  
 
