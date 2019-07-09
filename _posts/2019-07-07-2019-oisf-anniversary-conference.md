@@ -104,7 +104,12 @@ been interviewed by and quoted by several media outlets and publications
 including BBC, MIT Technical Review, MSNBC, SC Magazine, Threat Post and
 The Register.
 
-#### Robert Stewart - TBA
+#### Robert Stewart - A Discussion of Secrets 
+
+As a social engineering practitioner there are many tricks I use to gain access to facilities, and ways that I coerce individuals into helping me achieve my goals along the way. We'll be talking about some of these tricks, tactics, and techniques to hopefully make my life harder and your security better. 
+
+Robert Stewart is a Security Consultant for Rapid7, working on engagements that range from network, web application, mobile, electronic social engineering, physical social engineering penetration test. 'I break into things for a living, lets talk about it.'
+
 
 #### Matt Scheurer - Continuous Skills Improvement for Everyone
 
