@@ -50,7 +50,7 @@ Dayton, Ohio 45420
     <tr>
       <td>10:45 AM</td>
       <td>Robert Stewart</td>
-      <td>TBA</td>
+      <td>A Discussion of Secrets</td>
     </tr>
     <tr>
       <td>11:45 AM</td>
