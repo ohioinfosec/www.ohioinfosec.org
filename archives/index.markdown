@@ -9,11 +9,170 @@ sidebar: false
 ## Miss a meeting? Forgot something in your notes?
 
 Here are presentations previously done by Ohio Information Security Forum
-participants, ordered by month and presentation name. This page contains
-archived presentations. For more current notes, see the Agendas and Meeting
-Notes in the [Blog](/blog/).
+participants.  They are organized by year and month, including Anniversary.
 
-## Archived Presentations (2013 - 2014):
+## By Year:  
+#### [2020](#2020)
+#### [2019](#2019)
+#### [2018](#2018)
+<!--#### [2017](#2017)
+#### [2016](#2016)
+#### [2015](#2015)-->
+#### [2013-2014](#20132014)
+#### [2011-2012](#20112012)
+
+
+## Archived Presentations:
+
+<a name="2020"/></a>  
+###2020:  
+<!-- ####December  
+
+####November  
+
+####October  
+
+####September  
+-->
+####August  
+**Defcon: Safe Mode Recap Links:  
+[Defcon 28 main page \(files\)](https://media.defcon.org/DEF%20CON%2028/)  
+[Defcon on YouTube](https://www.youtube.com/user/DEFCONConference)  
+[Hack-A-Sat](https://www.hackasat.com/)**  
+
+####July  
+**Intro to NAND flash memory recovery - Deral Heiland  
+[Reference Image 1](/files/2020/Deral_Heiland_Reference_1.jpg)  
+[Reference Image 2](/files/2020/Deral_Heiland_Reference_2.jpg)  
+[Reference Image 3](/files/2020/Deral_Heiland_Reference_3.jpg)**  
+####June  
+**[Free Hacking Resources Discovered during COVID-19](/files/2020/Free Hacking Resources 20200611.pptx) - John Carls**
+####May  
+**[Introduction to Python](/files/2020/Intro to Python.pptx) - Dale Shelinbarger**
+####February
+**[LibraryBox and PirateBox Presentations](/files/2020/LibraryBox_Briefing.ppt) - John Roberts**   
+**[Open-Source Intelligence \(OSINT\) Reconnaissance ](/files/2020/Open-Source Intelligence \(OSINT\) Reconnaissance.pptx) - John Carls**
+####January  
+**[Fruity Wi-fi](/files/2020/Fruity WiFi.pptx) - John Carls**
+
+<a name="2019"/></a>  
+###2019:  
+####November  
+**[Pi PoE - Raspberry Pi with Power over Ethernet](/files/2019/Kali_PoE.pptx) - John Carls**
+
+####September  
+**[Security Keys: Are they secure?](/files/2019/Security Keys Presentation.pptx) - Dale Shelinbarger**
+
+####August  
+**[Hacking With Critters](/files/2019/Hacking_w_Critters.pptx) - John Carls**
+
+
+####July Anniversary   
+**[A Discussion of Secrets](/files/2019/2_Robby - OISF Annaversary 2019.pptx) - Robert Stewart**  
+**[Continuous Skills Improvement for Everyone](/files/2019/3_Matt_Continuous Skills Improvement for Everyone.pdf) - Matt Scheurer**  
+**[DLP Demystified](/files/2019/4_Micah_DLP.v003.pdf) - Micah Brown**  
+**[Pixel Tracking: How it’s used and abused](/files/2019/5_Barry_OISF 2019 Pixel Track.pptx) - Barry Kimball**  
+
+####January  
+**[The path to IAM Maturity](/files/2019/The Path to IAM Maturity.pptx) - Jerod Brennen**  
+**[Hacking WordPress with WPScan](/files/2019/WP Scan.pptx) - Zechary Carls**
+
+<a name="2018"/></a>  
+###2018:  
+####July Anniversary   
+**[Catching the Social Engineer](/files/2018/Catch the SE.pptx) - Robert Stewart**  
+**[Hacking Identity, a PenTester's Guide to IAM](/files/2018/Hacking Identity.pptx) - Jerod Brennen**  
+**[Active Defense: Helping the Threat Actors Hack Themselves](/files/2018/OISF - Active Defense.pdf) - Matt Scheurer**  
+**[Planning and Executing a Red Team Engagement](/files/2018/Planning and Executing a Red Team Engagement - UPDATED 07142018.pdf) - Tim Wright**  
+
+####June  
+**[Kali Pi & Recon](/files/2018/Kali_PI_RECON.pptx) - John Carls**  
+
+####April  
+**[Making Kali Pi](/files/2018/Making_Kali_PI.pptx) - John Carls**  
+
+<!--
+<a name="2017"/></a>  
+###2017:  
+####December  
+
+####November  
+
+####October  
+
+####September  
+
+####August  
+
+####July  
+
+####June  
+
+####May  
+
+####April  
+
+####March  
+
+####February  
+
+####January  
+
+<a name="2016"/></a>  
+###2016:  
+####December  
+
+####November  
+
+####October  
+
+####September  
+
+####August  
+
+####July  
+
+####June  
+
+####May  
+
+####April  
+
+####March  
+
+####February  
+
+####January  
+
+<a name="2015"/></a>  
+###2015:  
+####December  
+
+####November  
+
+####October  
+
+####September  
+
+####August  
+
+####July  
+
+####June  
+
+####May  
+
+####April  
+
+####March  
+
+####February  
+
+####January  
+
+-->
+<a name="20132014"/></a>  
+### Older Presentations (2013 - 2014):
 
 #### February 2014
 
@@ -41,7 +200,8 @@ Notes in the [Blog](/blog/).
 * [Information Security Management 101: The Fundamentals - Jerod Brennen](/files/201303-Information_Security_Management_101_The_Fundamentals-Jerod_Brennen.zip)
 * [Wireless Packets 101 - Robert Stewart](/files/201303-Wireless_Packets_101-Robert_Stewart.zip)
 
-## Past Presentations
+<a name="20112012"/></a>  
+## 2011/2012
 
 * [2011](/archives/2011/)
 * [2012](/archives/2012/)
