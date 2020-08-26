@@ -54,6 +54,7 @@ participants.  They are organized by year and month, including Anniversary.
 ####January  
 **[Fruity Wi-fi](/files/2020/Fruity WiFi.pptx) - John Carls**
 
+----
 <a name="2019"/></a>  
 ###2019:  
 ####November  
@@ -76,6 +77,7 @@ participants.  They are organized by year and month, including Anniversary.
 **[The path to IAM Maturity](/files/2019/The Path to IAM Maturity.pptx) - Jerod Brennen**  
 **[Hacking WordPress with WPScan](/files/2019/WP Scan.pptx) - Zechary Carls**
 
+----
 <a name="2018"/></a>  
 ###2018:  
 ####July Anniversary   
@@ -90,12 +92,14 @@ participants.  They are organized by year and month, including Anniversary.
 ####April  
 **[Making Kali Pi](/files/2018/Making_Kali_PI.pptx) - John Carls**  
 
-
+----
 <a name="2016"/></a>  
 ###2016:  
 ####November  
 **[We're Watching You: An analysis of IP cameras through their firmware](/files/Presentation-Nov2016.pdf) - Charles Monett**  
+**[Link to scripts used in Charles' presentation](https://github.com/cm-code/firmware-scripts)**
 
+----
 <a name="2015"/></a>  
 ###2015:  
 ####January  
