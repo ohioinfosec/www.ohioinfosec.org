@@ -12,12 +12,11 @@ Here are presentations previously done by Ohio Information Security Forum
 participants.  They are organized by year and month, including Anniversary.
 
 ## By Year:  
-#### [2020](#2020)
-#### [2019](#2019)
-#### [2018](#2018)
-<!--#### [2017](#2017)
-#### [2016](#2016)
-#### [2015](#2015)-->
+#### [2020](#2020) 
+#### [2019](#2019)  
+#### [2018](#2018)  
+#### [2016](#2016)  
+#### [2015](#2015)
 #### [2013-2014](#20132014)
 #### [2011-2012](#20112012)
 
@@ -51,7 +50,7 @@ participants.  They are organized by year and month, including Anniversary.
 **[Introduction to Python](/files/2020/Intro to Python.pptx) - Dale Shelinbarger**
 ####February
 **[LibraryBox and PirateBox Presentations](/files/2020/LibraryBox_Briefing.ppt) - John Roberts**   
-**[Open-Source Intelligence \(OSINT\) Reconnaissance ](/files/2020/Open-Source Intelligence \(OSINT\) Reconnaissance.pptx) - John Carls**
+**[Open-Source Intelligence \(OSINT\) Reconnaissance](/files/2020/Open-Source Intelligence \(OSINT\) Reconnaissance.pptx) - John Carls**
 ####January  
 **[Fruity Wi-fi](/files/2020/Fruity WiFi.pptx) - John Carls**
 
@@ -91,86 +90,19 @@ participants.  They are organized by year and month, including Anniversary.
 ####April  
 **[Making Kali Pi](/files/2018/Making_Kali_PI.pptx) - John Carls**  
 
-<!--
-<a name="2017"/></a>  
-###2017:  
-####December  
-
-####November  
-
-####October  
-
-####September  
-
-####August  
-
-####July  
-
-####June  
-
-####May  
-
-####April  
-
-####March  
-
-####February  
-
-####January  
 
 <a name="2016"/></a>  
 ###2016:  
-####December  
-
 ####November  
-
-####October  
-
-####September  
-
-####August  
-
-####July  
-
-####June  
-
-####May  
-
-####April  
-
-####March  
-
-####February  
-
-####January  
+**[We're Watching You: An analysis of IP cameras through their firmware](/files/Presentation-Nov2016.pdf) - Charles Monett**  
 
 <a name="2015"/></a>  
 ###2015:  
-####December  
-
-####November  
-
-####October  
-
-####September  
-
-####August  
-
-####July  
-
-####June  
-
-####May  
-
-####April  
-
-####March  
-
-####February  
-
 ####January  
+**[Simple Network Management Pwnd](/files/201501-Simple_Network_Management_Pwnd-Matthew_Kienow.zip) - Matthew Kienow**  
+**[An Introduction to Bitcoin & Cryptocurrency](/files/20150108-Intro_to_Bitcoin&Cryptocurrency-Josh_Muller.pptx) - Josh Muller**
 
--->
+----
 <a name="20132014"/></a>  
 ### Older Presentations (2013 - 2014):
 
@@ -197,9 +129,10 @@ participants.  They are organized by year and month, including Anniversary.
 
 #### March 2013
 
-* [Information Security Management 101: The Fundamentals - Jerod Brennen](/files/201303-Information_Security_Management_101_The_Fundamentals-Jerod_Brennen.zip)
-* [Wireless Packets 101 - Robert Stewart](/files/201303-Wireless_Packets_101-Robert_Stewart.zip)
+* [Information Security Management 101: The Fundamentals - Jerod Brennen](/files/201303-Information_Security_Management_101_The_Fundamentals-Jerod_Brennen.zip) 
+* [Wireless Packets 101 - Robert Stewart](/files/201303-Wireless_Packets_101-Robert_Stewart.zip)  
 
+----
 <a name="20112012"/></a>  
 ## 2011/2012
 
