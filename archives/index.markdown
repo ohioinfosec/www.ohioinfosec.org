@@ -28,11 +28,11 @@ participants.  They are organized by year and month, including Anniversary.
 <!-- ####December  
 
 ####November  
-
-####October  
-
-####September  
 -->
+####October  
+**Understanding and Getting Started with JupyterLab - Dale Shelinbarger  
+[Link to Presentation](/files/2020/Understanding and Getting Started with JupyterLab.pptx)**  
+
 ####August  
 **Defcon: Safe Mode Recap Links:  
 [Defcon 28 main page \(files\)](https://media.defcon.org/DEF%20CON%2028/)  
