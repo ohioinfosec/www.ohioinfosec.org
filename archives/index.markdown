@@ -25,8 +25,10 @@ participants.  They are organized by year and month, including Anniversary.
 
 <a name="2020"/></a>  
 ###2020:  
-<!-- ####December  
+####December  
+**[Links from December Presentation](2020/12/11/links-from-december-2020-meeting/)**  
 
+<!--
 ####November  
 -->
 ####October  
