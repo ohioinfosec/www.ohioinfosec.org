@@ -11,7 +11,7 @@ Reverse Engineering:
 [https://github.com/The-Art-of-Hacking/h4cker/tree/master/reverse_engineering](https://github.com/The-Art-of-Hacking/h4cker/tree/master/reverse_engineering)  
 [https://github.com/tylerha97/awesome-reversing](https://github.com/tylerha97/awesome-reversing)  
 
-Ida Pro:  
+IDA:  
 [https://www.hex-rays.com/products/ida/](https://www.hex-rays.com/products/ida/)  
 
 Radare2:  
