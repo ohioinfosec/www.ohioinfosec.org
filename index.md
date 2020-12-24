@@ -28,8 +28,9 @@ W 50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYD
 </form>       </div>
 
 <!-- <div id="amznCharityBanner" style="position: relative"><div><a href="http://smile.amazon.com/ch/26-1330537"><img src='https://d1ev1rt26nhnwq.cloudfront.net/ccmtblv2.png' id="banner" style="border-style: none;" /></a></div><table style="position: absolute; text-align: center; width: 300px; top: 97px; height: 65px; vertical-align: middle"><tr><td><div><span style="font-family: Arial; font-size: 26px; line-height: 26px;" class="charityNameSpan">Ohio Information Security Forum</span></div></td></tr></table></div> -->
-<div id="amznCharityBanner style="position:relative">
-	<a href=""><img src="images/CL_Web_Banner_728x90.png"/></a>
+<div align="center" id="amznCharityBanner" style="position:relative; font-weight:700;">
+	Donate to Ohio Information Security Forum through Amazon Smile:
+	<a href="https://smile.amazon.com/ch/26-1330537"><img width="400" height="133" src="images/CL_Web_Banner_600x200.png"/></a>
 </div>
 # Recent Posts
 
