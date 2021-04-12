@@ -6,3 +6,6 @@ categories: [Blog]
 navbar: 
 ---
 
+The Archives section has been updated to include this year's presentations up to April 2021.
+
+#### [Link to 2021 Archives](/archives/#2021) 
