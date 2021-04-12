@@ -64,7 +64,6 @@ All Presentations:
 
 Individual Presentations:  
 **[Air-Fi](/files/2021/covert_data_exfiltration/Air_Fi_2012.06884.pdf)**  
-**[AirHopper](/files/2021/covert_data_exfiltration/AirHopper_1411.0237.pdf)**  
 **[aIR-Jumper](/files/2021/covert_data_exfiltration/aIR_Jumper_1709.05742.pdf)**  
 **[AiR-ViBeR](/files/2021/covert_data_exfiltration/AiR_ViBeR_2004.06195v1.pdf)**  
 **[BitWhisper](/files/2021/covert_data_exfiltration/BitWhisper_Thermal_1503.07919.pdf)**  
