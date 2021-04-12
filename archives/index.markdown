@@ -12,6 +12,7 @@ Here are presentations previously done by Ohio Information Security Forum
 participants.  They are organized by year and month, including Anniversary.
 
 ## By Year:  
+#### [2021](#2020) 
 #### [2020](#2020) 
 #### [2019](#2019)  
 #### [2018](#2018)  
@@ -22,6 +23,77 @@ participants.  They are organized by year and month, including Anniversary.
 
 
 ## Archived Presentations:
+<a name="2021"/></a>  
+###2021:
+<!--
+####December
+
+
+####November
+
+  
+####October
+
+
+####September
+
+
+####August
+
+
+####July
+
+
+####June
+
+
+####May
+-->
+
+
+####April
+[Cyberchef Workshop Lab File](/files/CyberChef_Workshop.zip) - Matt Scheurer
+
+####March
+
+
+Covert Data Exfiltration - John Carls
+
+Entire Set:
+[Link](/files/covert_data_exfiltration-John_Carls.zip)
+
+Individual Presentations:
+[Covert Data Exfiltration](/files/covert_data_exfiltration/Covert_Data_Exfiltration.pptx)
+[Air-Fi](/files/covert_data_exfiltration/Air_Fi_2012.06884.pdf)
+[AirHopper](/files/covert_data_exfiltration/AirHopper_1411.0237.pdf)
+[aIR-Jumper](/files/covert_data_exfiltration/aIR_Jumper_1709.05742.pdf)
+[AiR-ViBeR](/files/covert_data_exfiltration/AiR_ViBeR_2004.06195v1.pdf)
+[BitWhisper_Thermal](/files/covert_data_exfiltration/BitWhisper_Thermal_1503.07919.pdf)
+[Brightness](/files/covert_data_exfiltration/Brightness_Screen_2002.01078.pdf)
+[DiskFiltration](/files/covert_data_exfiltration/Disk_Filtration_1608.03431.pdf)
+[Fansmitter](/files/covert_data_exfiltration/Fansmitter_1606.05915.pdf)
+[GSMem](/files/covert_data_exfiltration/GSMem_sec15-paper-guri-update_v2.pdf)
+[HVACKer](/files/covert_data_exfiltration/HVACKer_1703.10454.pdf)
+[LED-it-GO](/files/covert_data_exfiltration/LED_it_GO_HDD_1702.06715.pdf)
+[Magneto](/files/covert_data_exfiltration/Magneto_1802.02317.pdf)
+[Mosquito Speaker](/files/covert_data_exfiltration/Mosquito_Speaker_1803.03422.pdf)
+[Odini](/files/covert_data_exfiltration/Odini_Faraday_1802.02700.pdf)
+[Oops!...I think I scanned a malware](/files/covert_data_exfiltration/Oops_Scanned_Malware_1703.07751.pdf)
+[PowerHammer](/files/covert_data_exfiltration/PowerHammer_1804.04014.pdf)
+[POWER-SUPPLaY](/files/covert_data_exfiltration/Power_Supplay_2005.00395.pdf)
+[USBee](/files/covert_data_exfiltration/USBee_1608.08397.pdf)
+[xLED](/files/covert_data_exfiltration/xLED_Router_1706.01140.pdf)
+
+
+
+####February
+[Solarwinds Exploit \(Solorigate\)](/files/SolarWinds Exploit \(Solorigate\).pptx)
+
+
+####January
+[Adaptive Security](/files/AdaptiveSecurity.pptx) - Dale Shelinbarger
+
+
 
 <a name="2020"/></a>  
 ###2020:  
