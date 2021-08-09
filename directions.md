@@ -6,7 +6,7 @@ title: Directions
 
 ## Address
 
-    Miami Valley Research Park - Sinclair Learning Center
+    IRGRA Building (formerly MVRP) 
     1900 Founders Drive
     Suite 100
     Dayton, Ohio 45420
