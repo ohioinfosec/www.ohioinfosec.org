@@ -43,6 +43,7 @@ participants.  They are organized by year and month, including Anniversary.
 
 ####August
 **[Recap of SANS Digital Forensics and Incident Response (DFIR) 2021 Conference - John Carls](/files/2021/DFIR_Conference_2021.pptx)**  
+**[Presentations from Recap](/files/2021/SANS_DFIR_recap_presentations.zip)**  
 **[Reviewing this summer's critical Microsoft vulnerabilities - Jason Kinder](/files/2021/OISF_08-12-21_Summer_of_MS_Vulnerabilities.pptx)**  
 
 ####July
