@@ -33,10 +33,13 @@ participants.  They are organized by year and month, including Anniversary.
 
   
 ####October
-
+-->
 
 ####September
--->
+**Demo of REMnux (free VM created by SANS for malware analysis)**  
+**[Presentation](/files/2021/REMnux_Distro_Demo.pptx)**  
+**[Malware analysis cheat sheet](/files/2021/malware-analysis-cheat-sheet.pdf)**  
+**[REMnux malware analysis tips](/files/2021/remnux-malware-analysis-tips.pdf)**  
 
 ####August
 **[Recap of SANS Digital Forensics and Incident Response (DFIR) 2021 Conference - John Carls](/files/2021/DFIR_Conference_2021.pptx)**  
