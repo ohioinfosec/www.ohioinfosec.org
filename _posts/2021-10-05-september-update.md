@@ -13,7 +13,7 @@ The Archives section has been updated.
 It includes the following:
 
 ### Demo of REMnux (free VM created by SANS for malware analysis)
-**[Presentation](files/2021/REMnux_Distro_Demo.pptx)**  
-**[Malware analysis cheat sheet](files/2021/malware-analysis-cheat-sheet.pdf)**  
-**[REMnux malware analysis tips](files/2021/remnux-malware-analysis-tips.pdf)**  
+**[Presentation](/files/2021/REMnux_Distro_Demo.pptx)**  
+**[Malware analysis cheat sheet](/files/2021/malware-analysis-cheat-sheet.pdf)**  
+**[REMnux malware analysis tips](/files/2021/remnux-malware-analysis-tips.pdf)**  
 
