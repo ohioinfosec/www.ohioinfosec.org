@@ -10,7 +10,7 @@ The Archives section has been updated.
 **[Link to 2021 Archives](/archives/#2021)** 
 
 
-It includes the following:
+It includes the following:  
 **Ward Cunningham’s Txtzyme and Ken Boak’s SIMPL languages**  
 **[OpenOffice format](/files/2021/Txtzyme_and_SIMPLE.odp)**  
 **[Powerpoint format](/files/2021/Txtzyme_and_SIMPLE.pptx)**  
