@@ -25,10 +25,17 @@ participants.  They are organized by year and month, including Anniversary.
 ## Archived Presentations:
 <a name="2021"/></a>  
 ###2021:
-<!--
+
 ####December
+**Ward Cunningham’s Txtzyme and Ken Boak’s SIMPL languages**  
+**[OpenOffice format](/files/2021/Txtzyme_and_SIMPLE.odp)**  
+**[Powerpoint format](/files/2021/Txtzyme_and_SIMPLE.pptx)**  
+
+**Playbook for Threat Modeling Medical Devices**  
+**[Download link](/files/2021/Playbook-for-Threat-Modeling-Medical-Devices.pdf)**  
 
 
+<!--
 ####November
 -->
   
