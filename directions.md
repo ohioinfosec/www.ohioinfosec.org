@@ -5,23 +5,22 @@ title: Directions
 ---
 
 ## Address
+    
+    4141 Colonel Glenn Hwy 
+    Suite 115, 
+    Beavercreek, OH 45431
 
-    IRGRA Building (formerly MVRP) 
-    1900 Founders Drive
-    Suite 100
-    Dayton, Ohio 45420
-
-    The Garden West Room
 
 ## Maps
 
 ### Area Map
 
+<!--
 <div class="Flexible-container">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12275.386046244717!2d-84.108865!3d39.72063199999965!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884084ce4ecc8bd7%3A0xb31483e6b5b66995!2sMiami+Valley+Research+Park!5e0!3m2!1sen!2s!4v1398360461884" width="600" height="450" frameborder="0" style="border:0"></iframe>
 </div>
 
-When you arive, look for the Garden West Room.
+When you arrive, look for the Garden West Room.
 
 ## Directions
 
@@ -71,3 +70,5 @@ When you arive, look for the Garden West Room.
     Turn left at Spaulding Rd - 1.3 mi
     Turn right at College Dr - 285 ft
     Turn left at Founders Dr - 0.3 mi
+
+-->
