@@ -11,6 +11,4 @@ Modern Technology Solutions, Inc. (MTSI) is an 100% employee-owned engineering s
 
 [Website: http://www.mtsi-va.com/](http://www.mtsi-va.com/)
 
-{% img center /images/spon-irgra.png %}
 
-[IRG Realty Advisors - Comprehensive Commercial Real Estate Solutions \(irgra.com\)](https://www.irgra.com/)
