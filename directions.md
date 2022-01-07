@@ -12,8 +12,7 @@ title: Directions
 
 
 ## Maps
-
-### Area Map
+[Link to map](https://www.google.com/maps/place/4141+Colonel+Glenn+Hwy+%23+115,+Beavercreek,+OH+45431/)
 
 <!--
 <div class="Flexible-container">
