@@ -12,6 +12,7 @@ Here are presentations previously done by Ohio Information Security Forum
 participants.  They are organized by year and month, including Anniversary.
 
 ## By Year:  
+#### [2021](#2022)
 #### [2021](#2021) 
 #### [2020](#2020) 
 #### [2019](#2019)  
@@ -23,6 +24,13 @@ participants.  They are organized by year and month, including Anniversary.
 
 
 ## Archived Presentations:
+<a name="2022"/></a>  
+###2022:
+
+####January
+**[Mark Jeanmougin - Save Time with Modern Search Techniques](/files/2022/20220113-jeanmougin-modernSearch-v4002.pdf)**  
+**[Alternate link](https://github.com/markjx/search2018/blob/master/20220113-jeanmougin-modernSearch-v4002.pdf)**  
+
 <a name="2021"/></a>  
 ###2021:
 
