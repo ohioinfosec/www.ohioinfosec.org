@@ -33,7 +33,7 @@ W 50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYD
 	<a href="https://smile.amazon.com/ch/26-1330537"><img width="400" height="133" src="images/CL_Web_Banner_600x200.png"/></a>
 </div>-->
 # Recent Posts
-
+# 
 {% for post in site.posts %}
 <strong><a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></strong>
 {% endfor %}
