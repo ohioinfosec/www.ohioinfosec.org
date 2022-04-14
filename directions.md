@@ -7,7 +7,7 @@ title: Directions
 ## Address
     
     4141 Colonel Glenn Hwy 
-    Suite 115, 
+    Suite 202, 
     Beavercreek, OH 45431
 
 
