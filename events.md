@@ -5,7 +5,7 @@ title: Upcoming Events
 ---
 
 # Events:
-## July 10th @ 9AM 
-### Ohio Information Security Forum 15th Anniversary Meeting
-#### Schedule: [Schedule](https://www.ohioinfosec.org/2021/07/10/agenda/)
-#### Registration: [Registration Link](https://www.eventbrite.com/e/oisf-annual-conference-tickets-161185904379)
+## July 9th @ 9AM 
+### Ohio Information Security Forum 16th Anniversary Conference
+#### Schedule: [Schedule](https://www.ohioinfosec.org/2022/07/09/agenda/)
+#### Registration: [Registration Link](https://www.eventbrite.com/e/oisf-annual-conference-sweet-16-tickets-337619247257)
