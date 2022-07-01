@@ -17,4 +17,5 @@ Modern Technology Solutions, Inc. (MTSI) is an 100% employee-owned engineering s
 
 [Website: https://www.mtsi-va.com/](http://www.mtsi-va.com/)
 
+{% img center /images/ud_docs_480x192.jpg %}
 
