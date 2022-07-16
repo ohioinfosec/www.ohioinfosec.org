@@ -23,7 +23,7 @@ Micah Brown - How a 1993 CCG Prepared me for a Life in InfoSec
 Deral Heiland - Evaluating the Security of an Enterprise IoT Deployment - From Acquisition to Support  
 
 **Videos:**   
-[Videos](https://archive.org/details/oisf2022)
+[Videos](https://archive.org/details/oisf2022)  
 More links TBA  
 
 **Original Agenda**  
