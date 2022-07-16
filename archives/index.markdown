@@ -40,7 +40,7 @@ Deral Heiland - Evaluating the Security of an Enterprise IoT Deployment - From A
 **Videos:**   
 Links TBA  
 
-**Original Agenda**
+**Original Agenda**  
 [Link](https://www.ohioinfosec.org/2022/07/09/agenda/)
 
 ####June
